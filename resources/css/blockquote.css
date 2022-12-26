@@ -1,0 +1,3 @@
+blockquote {
+    @apply border-l-4 border-brand-300 text-brand-500 pl-4
+}

@@ -1,0 +1,48 @@
+/*
+    Text colors not part of tailwind build
+
+    .text-admin        { color: theme('colors.yellow.500') }
+    .text-csp          { color: #2C5B64 }
+    .text-dealer       { color: theme('colors.red.500') }
+    .text-forever      { color: theme('colors.green-500') }
+    .text-info         { color: theme('colors.blue.500') }
+    .text-instrument   { color: theme('colors.orange.500') }
+    .text-student      { color: theme('colors.red.500') }
+    .text-subject      { color: theme('colors.orange.500') }
+    .text-tester       { color: theme('colors.red.500') }
+*/
+
+/* Brands */
+.text-affinity           { color: #222324 }
+.text-affinityphoto      { color: #7e4dd2 }
+.text-affinitydesigner   { color: #1b72be }
+.text-affinitypublisher  { color: #c9284d }
+
+.text-apple         { color: #dce0e3 }
+.text-digitalocan   { color: #008bcf }
+.text-dropbox       { color: #0060ff }
+.text-facebook      { color: #3b5998 }
+.text-github        { color: #4078c0 }
+.text-google        { color: #4285f4 }
+.text-instagram     { color: #405de6 }
+.text-laravel       { color: #f55247 }
+.text-linux         { color: #2b2928 }
+.text-linode        { color: #1c6d38 }
+.text.mastodon      { color: #1b4299 }
+.text-paypal        { color: #003087 }
+.text-pincrest      { color: #cb2028 }
+.text-pop_os        { color: #48b9c7 }
+.text-raspberrypi   { color: #c51a4a }
+.text-reddit        { color: #ff4500 }
+.text-skype         { color: #00aff0 }
+.text-square        { color: #003792 }
+.text-stripe        { color: #00afe1 }
+.text-telegram      { color: #0088cc }
+.text-twitch        { color: #9146ff }
+.text-twitter       { color: #1da1f2 }
+.text-ubuntu        { color: #e66535 }
+.text-vimeo         { color: #162221 }
+.text-vultr         { color: #007bfc }
+.text-windows       { color: #0078d6 }
+.text-youtube       { color: #ff0000 }
+.text-zoom          { color: #388bf5 }

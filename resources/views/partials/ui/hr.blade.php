@@ -1,0 +1,1 @@
+ @svg('ukulele-horiz', 'icon-3x text-brand-300 my-8 block mx-auto')

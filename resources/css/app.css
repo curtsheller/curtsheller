@@ -1,0 +1,575 @@
+@tailwind base;
+
+@tailwind components;
+
+@layer components {
+    .btn {
+        @apply inline-flex
+            items-center
+            px-4 py-2
+            rounded-md
+            text-sm font-semibold
+            bg-white
+            shadow-sm;
+    }
+
+    /*
+        Button Sizes
+
+        These correspond to the text-sizes from tailwindcss:  xs sm base lg xl
+    */
+    .btn-xs {
+        @apply px-2.5 py-1.5
+            text-xs;
+    }
+
+    .btn-sm {
+        @apply px-3 py-2
+            leading-4;
+    }
+
+    /* Base, default button is in .btn above. */
+
+    .btn-md {
+        @apply text-base;
+    }
+
+    .btn-lg {
+        @apply px-6 py-3.5
+            text-base;
+
+    }
+
+    .btn-xl {
+        @apply px-6 py-3.5
+            text-xl;
+    }
+
+    /*
+        Misc button styles.
+    */
+
+    .btn-text-center {
+        @apply justify-center;
+    }
+    .btn-text-bold {
+        @apply font-bold;
+    }
+
+    /*
+        Button Colors
+    */
+
+    .btn-brand {
+        @apply border border-brand-300
+            text-brand-500 hover:text-secondary-300
+            hover:bg-brand-500 hover:bg-brand-500 hover:border-brand-500;
+    }
+
+    .btn-brand-solid {
+        @apply text-brand-100 border-none bg-brand-500 hover:text-secondary-300
+            hover:bg-brand-800;
+    }
+
+    .btn-secondary {
+        @apply border-none text-secondary-50 hover:text-secondary-200
+            bg-secondary-500 hover:bg-secondary-800
+    }
+
+    /*
+        Primary Colors
+    */
+    .btn-red {
+        @apply text-red-100 border-none hover:text-red-200 bg-red-500 hover:bg-red-800;
+    }
+
+    .btn-blue {
+        @apply text-blue-100 border-none hover:text-blue-200 bg-blue-500 hover:bg-blue-800;
+    }
+
+    .btn-green {
+        @apply text-white border-none hover:text-white bg-mint-500 hover:bg-mint-800;
+    }
+
+    .btn-mint {
+        @apply text-white border-none hover:text-mint-100 bg-mint-400 hover:bg-mint-800;
+    }
+
+    .btn-yellow {
+        @apply text-yellow-100 border-none hover:text-yellow-200 bg-yellow-500 hover:bg-yellow-800;
+    }
+
+    .btn-orange {
+        @apply text-yellow-200 border-none hover:text-orange-300 bg-orange-500 hover:bg-orange-600;
+    }
+
+    /*
+        Olympic Medal/Site Access Color Buttons
+    */
+    .btn-bronze {
+        @apply text-bronze-100 border-none hover:text-bronze-300 bg-bronze-500 hover:bg-bronze-700;
+    }
+
+    .btn-silver {
+        @apply text-silver-100 border-none hover:text-silver-300 bg-silver-500 hover:bg-silver-700;
+    }
+
+    .btn-gold {
+        @apply text-gold-100 border-none hover:text-gold-300 bg-gold-500 hover:bg-gold-700;
+    }
+    /*
+        B&W, Grays
+    */
+    .btn-white {
+        @apply text-black border-none hover:text-gray-300 bg-white hover:bg-gray-700;
+    }
+
+    .btn-black {
+        @apply text-white border-none hover:text-gray-300 bg-black hover:bg-gray-700;
+     }
+
+    .btn-gray {
+        @apply text-silver-100 border-none hover:text-silver-300 bg-silver-500 hover:bg-silver-700;
+     }
+
+    .btn-grey {
+        @apply text-grey-100 border-none hover:text-grey-300 bg-grey-500 hover:bg-grey-700;
+     }
+
+    /*Icons*/
+    .icon-navmini {
+        display:  block;
+        color:    theme('colors.gray.300');
+        font-size: 1.5em;
+
+        @apply mr-2 mx-auto
+    }
+
+    .icon {
+        fill:           currentColor;
+        display:        inline-block;
+        font-size:      inherit;
+        height:         1em;
+        overflow:       visible;
+        vertical-align:  -.125em;
+    }
+
+    .icon-sm {
+        font-size: 1.25rem;
+    }
+    .icon-md {
+        font-size: 1.5rem;
+    }
+    .icon-lg {
+        font-size: 1.75rem;
+    }
+    .icon-2x {
+        font-size: 2em;
+    }
+    .icon-3x {
+        font-size: 3em;
+    }
+    .icon-4x {
+        font-size: 4em;
+    }
+    .icon-5x {
+        font-size: 5em;
+    }
+    .icon-6x {
+        font-size: 6em;
+    }
+    .icon-7x {
+        font-size: 7em;
+    }
+    .icon-8x {
+        font-size: 8em;
+    }
+    .icon-9x {
+        font-size: 9em;
+    }
+    .icon-10x {
+        font-size: 10em,
+    }
+
+    .text-brand-icon {
+        color: theme('colors.brand.300');
+    }
+
+    /* Images */
+    .img-thumbnail {
+        @apply shadow-lg;
+
+        border: 1px solid theme('colors.gray.300');
+        border-radius: 6px;
+        padding: 4px;
+    }
+
+    .img-centered, .img-center {
+        display: block;
+        margin-right: auto;
+        margin-left:  auto;
+    }
+
+
+    /* Cards a.k.a: panels, etc...;
+    -------------------------------------------------------------- */
+    .card, .definition, .FAQ, .alert {
+        /* from BS4 */
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        min-width: 0;
+        word-wrap: break-word;
+        /* end from BS4 */
+
+        background-color:   theme('colors.white');
+        background-clip:    border-box;
+        background-image:   none;
+    }
+
+    /*Lingering Bootstrap class.*/
+    .alert-danger {
+        @extend card
+        @apply;
+
+        padding:            1rem;
+        margin-bottom:      0.25rem;
+
+        color:              theme('colors.red.700');
+        background-color:   theme('colors.red.300');
+
+        h4 {
+            color: theme('colors.red.700');
+        }
+
+        ul {
+            @apply list-disc ml-8;
+        }
+    }
+
+    .card-none {
+        @extend card
+        @apply;
+    }
+
+    .card-plain {
+        @extend card
+        @apply border rounded;
+
+        border-color: theme('colors.gray.300');
+
+        padding:            1rem;
+        margin-bottom:      0.25rem;
+    }
+
+    .card-csp {
+        @extend card
+        @apply border rounded;
+
+        border-color: theme('colors.gray.300');
+
+        padding:            1rem;
+        margin-bottom:      0.25rem;
+
+        background-repeat:  no-repeat;
+        background-image: url('/images/cards/gray/csp.svg');
+        background-size: 160px;
+    }
+
+    .card-quote {
+        @extend card
+        @apply border rounded;
+
+        padding:            2rem;
+        margin-bottom:      0.25rem;
+
+        background-repeat:  no-repeat;
+        background-image: url('/images/cards/gray/quotes.svg');
+        background-size: 200px;
+
+        span.quotee {
+            font-weight: bold;
+        }
+    }
+
+    .card-racewalk {
+        @extend card
+        @apply border rounded;
+
+        padding:            1rem;
+        margin-bottom:      0.25rem;
+
+        background-repeat:  no-repeat;
+        background-image: url('/images/cards/gray/racewalk.png');
+    }
+
+    .card-uke {
+        @extend card
+        @apply border rounded;
+
+        padding:            1rem;
+        margin-bottom:      0.25rem;
+
+        background-repeat:  no-repeat;
+        background-image: url('/images/cards/gray/uke.png');
+    }
+
+    .race-result {
+        @extend card
+        @apply border rounded p-2;
+
+        margin-bottom:      0.125rem;
+
+        .race-time p {
+            @apply font-bold;
+        }
+    }
+
+    .callout {
+        @apply bg-brand-100 border rounded p-4 pb-2 pl-48;
+
+        background-repeat:  no-repeat;
+        background-image: url('/images/cards/gray/csp.svg');
+        background-size: 160px;
+    }
+
+
+    /* Listings - icons, who, info
+    ------------------------------------------------------------*/
+    .listing {
+        display: inline-flex;
+        flex-direction: column;
+
+        width: 100%;
+
+        border:             1px solid theme('colors.gray.300');
+        border-radius:      4px;
+        background-color:   theme('colors.white');
+        padding:            .5rem;
+    }
+
+    .listing-icons
+    {
+        display: none;
+        flex: 0 0 36px;
+
+        padding:        2px;
+        margin-right:   2px;
+        padding-top:    6px;
+
+        img {
+            display:        block;
+            padding-bottom: 4px;
+        }
+    }
+
+    .listing-contact-info
+    {
+        flex: 0 0 240px;
+
+        padding: 0 .5rem;
+        margin-right: .25rem;
+
+        p {
+            @apply font-sans text-sm leading-normal;
+        }
+
+        .logo, .gps-map, .ff-stars {
+            display: block;
+        }
+    }
+
+    .listing-info
+    {
+        flex-grow: 1;
+
+        padding: 0 .5rem;
+
+        p {
+            @apply font-sans text-sm leading-normal;
+        }
+    }
+
+    @media (min-width: theme('screens.sm')) {
+        .listing {
+            flex-direction: column;
+        }
+        .listing-icons {
+            display: none;
+        }
+        .listing-contact-info {
+            .logo, .ff-stars { display: block; }
+        }
+        .listing-info {
+        }
+    }
+    @media (min-width: theme('screens.md')) {
+        .listing {
+            flex-direction: row;
+        }
+        .listing-icons {
+            display: block;
+        }
+        .listing-contact-info {
+            border-right:       1px dotted theme('colors.gray.300');
+            background-color:   theme('colors.gray.100');
+
+            .logo, .gps-map, .ff-stars { display: block; }
+        }
+        .listing-info {
+        }
+    }
+    @media (min-width: theme('screens.lg')) {
+        .listing {
+            /*flex-direction: row;*/
+        }
+        .listing-icons {
+            display: block;
+        }
+        .listing-contact-info {
+            /*.logo, .gps-map, .ff-stars { display: block; }*/
+        }
+        .listing-info {
+        }
+
+    }
+    @media (min-width: theme('screens.xl')) {
+        .listing {
+            /*flex-direction: row;*/
+        }
+        .listing-icons {
+            display: block;
+        }
+        .listing-contact-info {
+            /*.logo, .gps-map, .ff-stars { display: block; }*/
+        }
+        .listing-info {
+        }
+    }
+
+
+    nav {
+        @apply px-2;
+        a {
+            @apply font-serif text-lg tracking-tight no-underline mr-4;
+
+            color: theme('colors.red.500');
+        }
+    }
+}
+
+@tailwind utilities;
+
+
+@layer base {
+
+    @import "fonts-MB.css";
+    @import "fonts-fira-sans.css";
+    @import "fonts-roboto.css";
+    @import "fonts-dingbats.css";
+
+    @import "variables.css";
+    @import "brand.css";
+    @import "colors.css";
+    @import "lists.css";
+    @import "tables.css";
+
+    /* Layout */
+    html {
+        font-family: sans-serif;
+
+        scroll-behavior: smooth;
+    }
+
+    @media screen and (prefers-reduced-motion: reduce) {
+        html {
+            scroll-behavior: auto;
+        }
+    }
+
+    h1, h2, h3, h4, h5, h6,
+    .h1, .h2, .h3, .h4, .h5, .h6 {
+        @apply leading-none mt-4 mb-2;
+
+        font-family:        theme('fontFamily.sans');
+        font-weight:        800;
+        line-height:        1.75rem;
+        letter-spacing:     0.0125em;
+        color:              theme('colors.brand[700]');
+    }
+
+    h1, .h1 {
+        @apply text-5xl mt-0;
+        color: theme('colors.brand.500');
+    }
+
+    h2, .h2 {
+        @apply text-3xl mt-2 mb-2;
+        color: theme('colors.brand.500');
+    }
+
+    h3, .h3 {
+        @apply text-2xl leading-snug;
+        color: theme('colors.brand.500');
+    }
+    h4, .h4 {
+        @apply text-xl leading-snug;
+        color: theme('colors.brand.500');
+    }
+
+    .font-heading, .font-display {
+        font-family:        theme('fontFamily.serif');
+        font-weight:        inherit;
+        line-height:        inherit;
+    }
+
+    p {
+        @apply mb-4;
+
+        font-family:    theme('fontFamily.sans');
+        font-weight:    400;
+        line-height:    1.5rem;
+
+    }
+
+    p.workshop-level {
+        @apply absolute top-0 right-0 text-sm tracking-wider font-bold mt-2 mr-4;
+        color: theme('colors.brand.300');
+    }
+
+    p.caption {
+        @apply text-center text-sm italic leading-snug mt-2;
+
+        color: theme('colors.grey.500');
+    }
+
+    b {
+      font-weight: 600;
+    }
+
+    .div-center {
+        display: block;
+        margin-right: auto;
+        margin-left:  auto;
+    }
+
+    a {
+        @apply font-bold tracking-wide;
+
+        color: theme('colors.brand.700');
+    }
+}
+
+/*
+@import 'anchors';
+@import 'buttons';
+@import 'cards';
+@import 'flags';
+@import 'grid';
+@import 'icons';
+@import 'images';
+@import 'listings';
+@import 'nav';
+@import 'text';
+@import 'lists';
+*/

@@ -1,0 +1,23 @@
+.primary {
+    fill: theme('colors.brand.500');
+}
+
+.secondary {
+    fill: theme('colors.brand.400');
+}
+
+.primary-aside-toggle-switch {
+    fill: theme('colors.brand.400');
+}
+
+.secondary-aside-toggle-switch {
+    fill: theme('colors.brand.100');
+}
+
+.svg-glossary {
+    @apply text-brand-400;
+}
+
+.icon-masthead-nav {
+    fill: theme('colors.brand.300');
+}

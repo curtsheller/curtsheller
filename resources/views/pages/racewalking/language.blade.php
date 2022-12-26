@@ -1,0 +1,1 @@
+<?php 	require_once $_SERVER['DOCUMENT_ROOT'] . '/csp/app/includes/start.php';	$page_title = "Racewalking - Speken Around the World";	$page_description = "Walking as spoken around the world";	include_once CSP::layout() . 'main.php'; ?>

@@ -1,0 +1,1 @@
+<p class=""><b>Ed Rick</b> - Ed is a versatile and experienced drummer who has played in a wide range of professional situations. His solid timekeeping and ever evolving style brings a fresh, dynamic sound to the trio.  Besides his playing, Ed devotes a good deal of time to his teaching practice.</p>

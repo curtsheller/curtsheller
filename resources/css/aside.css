@@ -1,0 +1,45 @@
+/*.menu-title {
+    @apply font-bold tracking-wide text-xs uppercase cursor-pointer;
+
+    color: theme('colors.gray-700');
+    margin-bottom: 0;
+}*/
+aside {
+    p {
+        /*color: theme('colors.brand.500');*/
+    }
+    a:link, a:visited, a:hover, a:active {
+        @apply no-underline;
+        color: theme('colors.brand.400');
+    }
+
+    ul {
+        @apply list-none leading-snug my-0 ml-1 mt-1;
+
+        li {
+            @apply leading-normal text-sm;
+        }
+    }
+}
+
+.aside-content {
+    ul {
+        @apply font-concourse leading-relaxed;
+
+        li {
+            @apply text-base;
+        }
+    }
+}
+/*
+    The following are used in the SidebarCard Vue Component.
+    In there but not actually be styles in this file.
+*/
+.aside-toggle-switch {
+}
+.primary-aside-toggle-switch {
+    fill: theme('colors.brand.500');
+}
+.secondary-aside-toggle-switch {
+    fill: theme('colors.brand.400');
+}

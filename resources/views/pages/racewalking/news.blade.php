@@ -1,0 +1,1 @@
+<?php 	require_once $_SERVER['DOCUMENT_ROOT'] . '/csp/app/includes/site-config.php';	$page_title = $page_title . ' - News';	include_once CSP::layout() . 'main.php'; ?>

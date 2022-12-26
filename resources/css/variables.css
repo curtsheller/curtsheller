@@ -1,0 +1,146 @@
+  :root {
+    /*Getting ready for dark mode.*/
+    --body-bg: #FFFFFF;
+    --body-color: #ff0000;
+    --black: #ff0000;
+
+    /* Curt Sheller Publications PMS648, Brand Colors */
+    --csp-color-50:  #f2f5f7;
+    --csp-color-100: #e6eaef;
+    --csp-color-200: #bfcbd7;
+    --csp-color-300: #99abbe;
+    --csp-color-400: #4d6d8e;
+    --csp-color-500: #002e5d;
+    --csp-color-600: #002954;
+    --csp-color-700: #002346;
+    --csp-color-800: #001c38;
+    --csp-color-900: #00172e;
+
+    /*
+        Brand Colors
+            */
+
+    --brand-color-50:  #f6f8f9;
+    --brand-color-100: #edf0f4;
+    --brand-color-200: #d3dbe3;
+    --brand-color-300: #b8c5d2;
+    --brand-color-400: #8299b0;
+    --brand-color-500: #4d6d8e;
+    --brand-color-600: #456280;
+    --brand-color-700: #3a526b;
+    --brand-color-800: #263546;
+    --brand-color-900: #00172e;
+
+    --secondary-color-50:  #fef9f6;
+    --secondary-color-100: #fdf3ec;
+    --secondary-color-200: #f9e1d1;
+    --secondary-color-300: #f5cfb5;
+    --secondary-color-400: #eeab7d;
+    --secondary-color-500: #e68745;
+    --secondary-color-600: #cf7a3e;
+    --secondary-color-700: #ad6534;
+    --secondary-color-800: #8a5129;
+    --secondary-color-900: #714222;
+
+    /*
+        Mint: agua-forest
+            From their site. The Mint Fox
+            700 - 3C674B
+            600 - 387A59
+            500 - 549975
+            300 - 96CCAC
+            100 - B8DFC9
+    */
+    --mint-color-50: #86cba7;
+    --mint-color-100: #7cc19d;
+    --mint-color-200: #72b793;
+    --mint-color-300: #68ad89;
+        --mint-color-light: #75CE8A;
+    --mint-color-400: #5ea37f;
+    --mint-color-500: #549975;
+        --mint-color-light: #75CE8A;
+    --mint-color-600: #4a8f6b;
+    --mint-color-700: #408561;
+        --mint-color-light: #75CE8A;
+    --mint-color-800: #367b57;
+    --mint-color-900: #2c714d;
+
+    --color-red-50: #fef2f2;
+    --color-red-100: #fee2e2;
+    --color-red-200: #fecaca;
+    --color-red-300: #fca5a5;
+    --color-red-400: #f87171;
+    --color-red-500: #ef4444;
+    --color-red-600: #dc2626;
+    --color-red-700: #b91c1c;
+    --color-red-800: #991b1b;
+    --color-red-900: #7f1d1d;
+
+    --color-blue-50: #f0f9ff;
+    --color-blue-100: #e0f2fe;
+    --color-blue-200: #bae6fd;
+    --color-blue-300: #7dd3fc;
+    --color-blue-400: #38bdf8;
+    --color-blue-500: #0ea5e9;
+    --color-blue-600: #0284c7;
+    --color-blue-700: #0369a1;
+    --color-blue-800: #075985;
+    --color-blue-900: #0c4a6e;
+
+    --color-green-50: #ecfdf5;
+    --color-green-100: #d1fae5;
+    --color-green-200: #a7f3d0;
+    --color-green-300: #6ee7b7;
+    --color-green-400: #34d399;
+    --color-green-500: #10b981;
+    --color-green-600: #059669;
+    --color-green-700: #047857;
+    --color-green-800: #065f46;
+    --color-green-900: #064e3b;
+
+    --color-orange-50: #FFF7ED;
+    --color-orange-100: #FFEDD5;
+    --color-orange-200: #FED7AA;
+    --color-orange-300: #FDBA74;
+    --color-orange-400: #FB923C;
+    --color-orange-500: #F97316;
+    --color-orange-600: #EA580C;
+    --color-orange-700: #C2410C;
+    --color-orange-800: #9A3412;
+    --color-orange-900: #7C2D12;
+
+    --color-yellow-50: #fefce8;
+    --color-yellow-100: #fef9c3;
+    --color-yellow-200: ##fef08a;
+    --color-yellow-300: #fde047;
+    --color-yellow-400: #fde047;
+    --color-yellow-500: #eab308;
+    --color-yellow-600: #ca8a04;
+    --color-yellow-700: #a16207;
+    --color-yellow-800: #854d0e;
+    --color-yellow-900: #713f12;
+
+    --color-gray-50:  #fafafa;
+    --color-gray-100: #f4f4f5;
+    --color-gray-200: #e4e4e7;
+    --color-gray-300: #d4d4d8;
+    --color-gray-400: #a1a1aa;
+    --color-gray-500: #71717a;
+    --color-gray-600: #52525b;
+    --color-gray-700: #3f3f46;
+    --color-gray-800: #27272a;
+    --color-gray-900: #18181b;
+
+
+    --color-grey-50: #FAFAF9;
+    --color-grey-100: #F5F5F4;
+    --color-grey-200: #E7E5E4;
+    --color-grey-300: #D6D3D1;
+    --color-grey-400: #8A29E;
+    --color-grey-500: #78716C;
+    --color-grey-600: #57534E;
+    --color-grey-700: #44403C;
+    --color-grey-800: #292524;
+    --color-grey-900: #1C1917;
+
+ }

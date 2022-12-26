@@ -1,0 +1,7 @@
+.note :is(h1, h2, h3, h4, h5, h6) {
+    color:  theme('colors.brand.500');
+
+    h1, h2,  {
+        @apply mt-0;
+    }
+}

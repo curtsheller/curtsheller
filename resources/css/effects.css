@@ -1,0 +1,54 @@
+.rotate-0 {
+  transform: rotate(0deg);
+}
+.rotate-1 {
+  transform: rotate(1deg);
+}
+.rotate-left-1 {
+  transform: rotate(-1deg);
+}
+.rotate-left-5 {
+  transform: rotate(-5deg);
+}
+.rotate-right-1 {
+  transform: rotate(1deg);
+}
+.rotate-right-5 {
+  transform: rotate(5deg);
+}
+.rotate-5 {
+  transform: rotate(5deg);
+}
+.rotate-10 {
+  transform: rotate(10deg);
+}
+.rotate-15 {
+  transform: rotate(15deg);
+}
+.rotate-45 {
+  transform: rotate(15deg);
+}
+.rotate-90 {
+  transform: rotate(90deg);
+}
+.rotate-180 {
+  transform: rotate(180deg);
+}
+.rotate-270 {
+  transform: rotate(270deg);
+}
+.div-rotate {
+    transform: rotate(1deg);
+}
+
+.img-rotate {
+    transform: rotate(-1deg);
+}
+
+.div-rotate-r, .img-rotate-r {
+    transform: rotate(1deg);
+}
+
+.indent {
+    @apply mx-8;
+}

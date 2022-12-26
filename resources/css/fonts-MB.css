@@ -1,0 +1,191 @@
+/*
+    Fonts
+
+    .font-hairline  font-weight: 100;
+    .font-thin  font-weight: 200;
+    .font-light   font-weight: 300;
+    .font-normal  font-weight: 400;
+    .font-medium  font-weight: 500;
+    .font-semibold  font-weight: 600;
+    .font-bold  font-weight: 700;
+    .font-extrabold   font-weight: 800;
+    .font-black   font-weight: 900;
+*/
+
+/*
+    MB Type: Century Supra;
+
+    Century Supra includes 72 font files:
+    = 6 styles (regular, italic, bold, bold italic, regular caps, bold caps)
+    × 2 weight grades
+    × 2 variants (regular and Tab, with tabular figures as the defaults)
+    × 3 file formats (OpenType, TrueType-compatible OpenType TT, and WOFF)
+
+    Century Supra "T3, T4" styles are installed
+*/
+
+/* Hermes-Maia T3- light */
+@font-face {
+  font-family: 'Century-Supra';
+  src:          url('/fonts/Century-Supra/century_supra_t3_regular.woff') format('woff2');
+  font-weight:  300;
+  font-style:   normal;
+}
+
+@font-face {
+  font-family: 'Century-Supra';
+  src:          url('/fonts/Century-Supra/century_supra_t3_italic.woff') format('woff2');
+  font-weight:  300;
+  font-style:   italic;
+}
+
+/* Hermes-Maia T4- normal */
+@font-face {
+  font-family: 'Century-Supra';
+  src:          url('/fonts/Century-Supra/century_supra_t4_regular.woff') format('woff2');
+  font-weight:  400;
+  font-style:   normal;
+}
+
+@font-face {
+  font-family: 'Century-Supra';
+  src:          url('/fonts/Century-Supra/century_supra_t4_italic.woff') format('woff2');
+  font-weight:  400;
+  font-style:   italic;
+}
+
+/*
+    MB Type: Hermes-Maia;
+
+    Hermes Maia includes 90 font files:
+    = 6 weights (light (thin), book (normal), medium, semibold, bold, black)
+    × 2 series (text and caps)
+    + 3 cloned styles
+    × 2 variants (regular and Tab, with tabular figures as the defaults)
+    × 3 file formats (OpenType, TrueType-compatible OpenType TT, and WOFF)
+
+    Hermes-Maia "T2, T3, T4, T6, T7, T8" styles are installed
+*/
+
+/* Hermes-Maia T2- Thin */
+@font-face {
+  font-family: 'Hermes-Maia';
+  src:          url('/fonts/Hermes-Maia/hermes_maia_t2_regular.woff') format('woff2');
+  font-weight:  200;
+  font-style:   normal;
+}
+
+@font-face {
+  font-family: 'Hermes-Maia';
+  src:          url('/fonts/Hermes-Maia/hermes_maia_t2_italic.woff') format('woff2');
+  font-weight:  200;
+  font-style:   italic;
+}
+
+/* Hermes-Maia T3 */
+@font-face {
+  font-family: 'Hermes-Maia';
+  src:          url('/fonts/Hermes-Maia/hermes_maia_t3_regular.woff') format('woff2');
+  font-weight:  300;
+  font-style:   normal;
+}
+
+@font-face {
+  font-family: 'Hermes-Maia';
+  src:          url('/fonts/Hermes-Maia/hermes_maia_t3_italic.woff') format('woff2');
+  font-weight:  300;
+  font-style:   italic;
+}
+
+/* Hermes-Maia T5 */
+@font-face {
+  font-family: 'Hermes-Maia';
+  src:          url('/fonts/Hermes-Maia/hermes_maia_t4_regular.woff') format('woff2');
+  font-weight:  400;
+  font-style:   normal;
+}
+
+@font-face {
+  font-family: 'Hermes-Maia';
+  src:          url('/fonts/Hermes-Maia/hermes_maia_t4_italic.woff') format('woff2');
+  font-weight:  400;
+  font-style:   italic;
+}
+
+/* Hermes-Maia T6 */
+@font-face {
+  font-family: 'Hermes-Maia';
+  src:          url('/fonts/Hermes-Maia/hermes_maia_t6_regular.woff') format('woff2');
+  font-weight:  600;
+  font-style:   normal;
+}
+
+@font-face {
+  font-family: 'Hermes-Maia';
+  src:          url('/fonts/Hermes-Maia/hermes_maia_t6_italic.woff') format('woff2');
+  font-weight:  600;
+  font-style:   italic;
+}
+
+/* Hermes-Maia T7 */
+@font-face {
+  font-family: 'Hermes-Maia';
+  src:          url('/fonts/Hermes-Maia/hermes_maia_t7_regular.woff') format('woff2');
+  font-weight:  700;
+  font-style:   normal;
+}
+
+@font-face {
+  font-family: 'Hermes-Maia';
+  src:          url('/fonts/Hermes-Maia/hermes_maia_t7_regular.woff') format('woff2');
+  font-weight:  700;
+  font-style:   italic;
+}
+
+/* Hermes-Maia T8 */
+@font-face {
+  font-family: 'Hermes-Maia';
+  src:          url('/fonts/Hermes-Maia/hermes_maia_t8_italic.woff') format('woff2');
+  font-weight:  800;
+  font-style:   italic;
+}
+
+@font-face {
+  font-family: 'Hermes-Maia';
+  src:          url('/fonts/Hermes-Maia/hermes_maia_t8_regular.woff') format('woff2');
+  font-weight:  800;
+  font-style:   normal;
+}
+
+/*
+  MB Type
+  Concourse "T2, T3, T4, T6, T7, T8" styles are installed
+*/
+/* Concourse T2 */
+@font-face {
+  font-family: 'Concourse';
+  src:          url('/fonts/Concourse/concourse_t2_regular.woff') format('woff2');
+  font-weight:  normal;
+  font-style:   normal;
+}
+
+@font-face {
+  font-family: 'Concourse';
+  src:          url('/fonts/Concourse/concourse_t2_italic.woff') format('woff2');
+  font-weight:  normal;
+  font-style:   italic;
+}
+
+@font-face {
+  font-family: 'Concourse';
+  src:          url('/fonts/Concourse/concourse_t2_bold.woff') format('woff2');
+  font-weight:  bold;
+  font-style:   normal;
+}
+
+@font-face {
+  font-family: 'Concourse';
+  src:          url('/fonts/Concourse/concourse_t2_bold_italic.woff') format('woff2');
+  font-weight:  bold;
+  font-style:   italic;
+}

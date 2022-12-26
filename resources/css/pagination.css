@@ -1,0 +1,41 @@
+/* purgecss start ignore */
+.livewire-pagination {
+}
+ul.pagination {
+    @apply flex flex-wrap leading-snug list-none;
+}
+.page-link {
+    @apply block bg-white text-brand-800 border-r border-brand-200 outline-none py-2 w-8 text-xs text-center font-bold;
+}
+.page-link:last-child {
+    @apply border-0;
+}
+.page-link:hover {
+    @apply bg-brand-400 text-white border-brand-400 rounded-lg;
+}
+.page-item.active .page-link {
+    @apply bg-brand-600 text-white border-brand-600 rounded-lg;
+}
+.page-item.disabled .page-link {
+    @apply bg-white text-brand-300 border-brand-200;
+}
+/* purgecss end ignore */
+
+ul.pager {
+    @apply flex items-end justify-between;
+}
+li.pager-next {
+    @apply self-center text-left;
+
+    a {
+        @apply font-bold;
+    }
+}
+li.pager-prev {
+    @apply font-bold self-center text-right;
+
+    a {
+        @apply font-bold;
+    }
+}
+/* purgecss end ignore */

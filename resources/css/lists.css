@@ -1,0 +1,45 @@
+ul, ol {
+    @apply text-sm leading-relaxed ml-4 mt-6;
+}
+
+/*
+    Stored in the flags dir
+*/
+li.GOLD {
+    list-style-image: url("/images/flags/medal_GOLD.png");
+}
+li.SILVER {
+    list-style-image: url("/images/flags/medal_SILVER.png");
+}
+li.BRONZE {
+    list-style-image: url("/images/flags/medal_BRONZE.png");
+}
+
+/*
+    https://github.com/outpunk/postcss-each/blob/master/README.md
+
+    postcss([ require('postcss-each') ])
+
+    USA State Flags
+
+    TO DO: Convert to smaller and faster svg images;
+
+*/
+@each $flag in AL,AK,AS,AZ,AR,CA,CO,CT,DE,DC,FL,GA,HI,ID,IL,IN,IA,KS,KY,LA,ME,MD,MA,MI,MN,MS,MO,MT,NE,NV,NH,NJ,NM,NY,NC,ND,OH,OK,OR,PA,PR,RI,SC,SD,TN,TX,UT,VT,VA,WA,WV,WI,WY {
+  li.flag-$(flag) {
+    list-style-image: url('/images/flags/USA/$(flag).png');
+  }
+}
+
+/*
+    International Country Flags and Olympic Medals
+
+    TO DO: Convert to smaller and faster svg images;
+
+*/
+
+@each $flag in GOLD,SILVER,BRONZE,AUS,BEL,BRA,CAN,CHN,CRO,CZE,ESP,FIN,FRA,GBR,GER,GRE,HUN,IND,IRL,ISR,ITA,JPN,KOR,MAR,MAS,MKD,MYA,NOR,MEX,NED,NZL,OMA,POL,RSA,RUS,SCO,SWE,SUI,TUR,USA,URS,,CZE,ESP,FIN,FRA,GBR,GER,GRE,HUN,IND,IRL,ISR,ITA,JPN,KOR,MAR,MAS,MKD,MYA,NOR,MEX,NED,NZL,POL,RSA,RUS,SCO,SWE,SUI,TUR,USA,QAT {
+  li.$(flag) {
+    list-style-image: url('/images/flags/$(flag).png');
+  }
+}

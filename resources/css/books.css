@@ -1,0 +1,29 @@
+.pubinfo {
+    line-height: 140%;
+    @apply text-xs;
+}
+
+/* as ID and class */
+#BOOK_TOC, .BOOK_TOC {
+
+    ul {
+        @apply list-disc leading-snug ml-8;
+
+        li {
+            @apply font-bold;
+        }
+
+        li>ul {
+            @apply mt-3;
+
+            li {
+                @apply font-light text-sm;
+                color: theme('colors.brand.700');
+            }
+        }
+    }
+}
+
+#book_changes_log p {
+    @apply text-sm font-light leading-relaxed;
+}

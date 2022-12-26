@@ -1,0 +1,56 @@
+/*
+    Orange
+
+    https://javisperez.github.io/tailwindcolorshades/?tan-hide=fb9d5c&jaffa=ff964d&blaze-orange=ff6900&pumpkin=f97316
+
+    Using this for the secondary brand colors
+*/
+
+'pumpkin': {
+    '50': '#fff8f3',
+    '100': '#fef1e8',
+    '200': '#fedcc5',
+    '300': '#fdc7a2',
+    '400': '#fb9d5c',
+    '500': '#f97316',
+    '600': '#e06814',
+    '700': '#bb5611',
+    '800': '#95450d',
+    '900': '#7a380b'
+}
+
+'blaze-orange': {
+    '50': '#fff8f2',
+    '100': '#fff0e6',
+    '200': '#ffdabf',
+    '300': '#ffc399',
+    '400': '#ff964d',
+    '500': '#ff6900',
+    '600': '#e65f00',
+    '700': '#bf4f00',
+    '800': '#993f00',
+    '900': '#7d3300'
+}
+
+'jaffa': {
+    '50': '#fef9f6',
+    '100': '#fdf3ec',
+    '200': '#f9e1d1',
+    '300': '#f5cfb5',
+    '400': '#eeab7d',
+    '500': '#e68745',
+    '600': '#cf7a3e',
+    '700': '#ad6534',
+    '800': '#8a5129',
+    '900': '#714222'
+}
+--secondary-color-50:  #fef9f6;
+--secondary-color-100: #fdf3ec;
+--secondary-color-200: #f9e1d1;
+--secondary-color-300: #f5cfb5;
+--secondary-color-400: #eeab7d;
+--secondary-color-500: #e68745;
+--secondary-color-600: #cf7a3e;
+--secondary-color-700: #ad6534;
+--secondary-color-800: #8a5129;
+--secondary-color-900: #714222;

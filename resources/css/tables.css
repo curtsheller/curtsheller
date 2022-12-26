@@ -1,0 +1,10 @@
+.hoverable {
+    &:hover {
+        @apply bg-orange-500 font-bold text-white;
+    }
+}
+
+th, td {
+    @apply p-1;
+
+}

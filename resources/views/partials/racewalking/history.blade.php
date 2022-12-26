@@ -1,0 +1,17 @@
+<x-mini-nav>
+    @include('layouts/nav/section/racewalking')
+</x-mini-nav>
+
+<x-card class="card-racewalk">
+    <h4 class="">History of Race Walking</h4>
+
+    <p>The XII and XIII century tradition of the English "footmen", who alternated running and walking as they accompanied their masters' coaches on long trips, inspired the walking competitions which were first held between 1775 and 1800 in England. These contests were over Six Days, 24 hours, etc.</p>
+
+    <p>In 1866 a 7 mile walking race on track was introduced to the British championships. In 1908 walking was introduced to the Olympic Games in London with a 3500m and a 10 mile race. Only the 10 mile race was conserved in 1912. Two races were present again in the 1920 games: 3km and 20km.</p>
+
+    <p>In 1924, only the 10km race was conserved but, in view of the large number of irregularities encountered, walking was eliminated altogether from the 1928 Games.</p>
+
+    <p>Olympic walking was re-introduced in 1932 over a 50km distance and at 10km and 20km in 1948. In 1952 20km and 50km distances were used as men's Olympic distances.</p>
+
+    <p>Women's race walking contests were first recorded in Czechoslovakia in 1932. 10km competitions were part of the IAAF World Championships for the first time in 1991 and the Olympic Games a year later.</p>
+</x-card>

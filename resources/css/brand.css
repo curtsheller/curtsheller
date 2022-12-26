@@ -1,0 +1,6 @@
+.text-brand-icon {
+    color:  theme('colors.brand.300');;
+}
+.text-secondary-icon {
+    color:  theme('colors.secondary.400');;
+}

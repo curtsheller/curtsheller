@@ -1,0 +1,1 @@
+<p class="caption text-center italic"> @svg('camera') photos by <a href="//karlmcw.com">Karl McWherter @svg('link')</a></p>

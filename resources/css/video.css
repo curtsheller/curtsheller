@@ -1,0 +1,6 @@
+/*https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php*/
+/* Will work on HTML5 */
+.video {
+  width: 100%    !important;
+  height: auto   !important;
+}

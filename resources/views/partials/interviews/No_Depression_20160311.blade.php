@@ -1,0 +1,11 @@
+<h3>The Curt Sheller Jazz Trio Reveals Creative and Engaging Uses of Ukulele on New Album</h3>
+
+<p class="text-right text-gray-500"><em>Reprint from <a href="http://nodepression.com/album-review/curt-sheller-jazz-trio-reveals-creative-and-engaging-uses-ukulele-new-album">The Roots Authority - No Depression</a> by STACEY ZERING.</em> No Depression is a semiannual, high-end, ad-free print magazine with a concurrent online publication/</p>
+
+<p>Inspired by their affection for jazz improvisation, the Curt Sheller Jazz Trio rework timeless classics on How About More Uke?, replacing the standard guitar backing with a ukulele, played with skill and creativity by Sheller himself. Alongside drummer Ed Rick on drums and Eric Schreiber on electric bass, Sheller reveals that the ukulele can be utilized as a serious and vibrant instrument.</p>
+
+<p>The idea to experiment with the ukulele in jazz dawned on Sheller while traveling with his wife to South Dakota; searching online for a small guitar that could be easily transported during the trip, Sheller stumbled on a ukulele.</p>
+
+<p>Conveying a sunshine atmosphere, "My Favorite Things," is spotlessly finessed, reigned by the suave sound of Sheller's ukulele. Driven by effervescent drums, it bounces off imagery of being in a remote beach, basking in the sun while toes are buried under powdery sand as cocktails are sipped. A cool wind brushes against the skin in "Georgia" as Sheller's poignant ukulele is accentuated by the acquiescent drift of the bass. The dark skies are suddenly wreathed with glittering stars, one of the fleeting images elicited by this incandescent piece. The finger-picked playing on "I'll Remember April" is marvelous, comforting, and empowering.</p>
+
+<p>This is definitely a soothing, finely calibrated and harmonically rich collection. With its ebullient rhythms, vivacious tempos, and unrestrained high-spirited melodies, listeners will without a doubt get carried away by this blissful album. The use of the ukulele adds a compelling dynamic and an astonishing vibe in every track of the album; it is ambitious, cleverly layered and electrifying.</p>

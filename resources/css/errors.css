@@ -1,0 +1,7 @@
+.has-error {
+    @apply text-red-500;
+
+    .form-control {
+        border: 2px solid theme('colors.red.500');
+    }
+}

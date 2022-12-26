@@ -1,0 +1,41 @@
+/*
+    Mint Mobile inspired Brand Colors
+*/
+
+'aqua-forest': {
+    '50': '#f6faf8',
+    '100': '#eef5f1',
+    '200': '#d4e6dd',
+    '300': '#bbd6c8',
+    '400': '#87b89e',
+    '500': '#549975',
+    '600': '#4c8a69',
+    '700': '#3f7358',
+    '800': '#325c46',
+    '900': '#294b39'
+}
+
+/* This is somes up as an 'Analogous' color to 'Nepal' (blue) */
+'paradiso': {
+    '50': '#f6f9f9',
+    '100': '#edf3f4',
+    '200': '#d3e1e3',
+    '300': '#b8cfd2',
+    '400': '#82abb0',
+    '500': '#4d878e',
+    '600': '#457a80',
+    '700': '#3a656b',
+    '800': '#2e5155',
+    '900': '#264246'
+}
+
+--brand-color-50:  #f6faf8;
+--brand-color-100: #eef5f1;
+--brand-color-200: #d4e6dd;
+--brand-color-300: #bbd6c8;
+--brand-color-400: #87b89e;
+--brand-color-500: #549975;
+--brand-color-600: #4c8a69;
+--brand-color-700: #3f7358;
+--brand-color-800: #325c46;
+--brand-color-900: #294b39;

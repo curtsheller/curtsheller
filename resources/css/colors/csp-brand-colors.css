@@ -1,0 +1,91 @@
+/*
+    Curt Sheller Publications PMS648, Brand Colors
+
+        https://javisperez.github.io/tailwindcolorshades/?heather=b8c4d2&nepal=99abbe&kashmir-blue=4d6d8e&midnight-blue=002e5d
+
+    Starting with the 'midnight-blue' each blue started with the 400 of the previous color.
+
+    Starts to get into to the slate/gray range.
+*/
+
+'midnight-blue': {
+    '50': '#f2f5f7',
+    '100': '#e6eaef',
+    '200': '#bfcbd7',
+    '300': '#99abbe',
+    '400': '#4d6d8e',
+    '500': '#002e5d',
+    '600': '#002954',
+    '700': '#002346',
+    '800': '#001c38',
+    '900': '#00172e'
+}
+
+'kashmir-blue': {
+    '50': '#f6f8f9',
+    '100': '#edf0f4',
+    '200': '#d3dbe3',
+    '300': '#b8c5d2',
+    '400': '#8299b0',
+    '500': '#4d6d8e',
+    '600': '#456280',
+    '700': '#3a526b',
+    '800': '#2e4155',
+    '900': '#263546'
+}
+
+'nepal': {
+    '50': '#fafbfc',
+    '100': '#f5f7f9',
+    '200': '#e6eaef',
+    '300': '#d6dde5',
+    '400': '#b8c4d2',
+    '500': '#99abbe',
+    '600': '#8a9aab',
+    '700': '#73808f',
+    '800': '#5c6772',
+    '900': '#4b545d'
+}
+
+/*
+    Analogous
+
+    (https://www.quackit.com/css/color/tools/css_color_scheme_generator.cfm)
+
+    Analogous color schemes use colors that are next to each other on the color wheel.
+*/
+'paradiso': {
+    '50': '#f6f9f9',
+    '100': '#edf3f4',
+    '200': '#d3e1e3',
+    '300': '#b8cfd2',
+    '400': '#82abb0',
+    '500': '#4d878e',
+    '600': '#457a80',
+    '700': '#3a656b',
+    '800': '#2e5155',
+    '900': '#264246'
+}
+
+
+--brand-color-50:  #f6f8f9;
+--brand-color-100: #edf0f4;
+--brand-color-200: #d3dbe3;
+--brand-color-300: #b8c5d2;
+--brand-color-400: #8299b0;
+--brand-color-500: #4d6d8e;
+--brand-color-600: #456280;
+--brand-color-700: #3a526b;
+--brand-color-800: #263546;
+--brand-color-900: #00172e;
+
+--secondary-color-50:  #f6f9f9;
+--secondary-color-100: #edf3f4;
+--secondary-color-200: #d3e1e3;
+--secondary-color-300: #b8cfd2;
+--secondary-color-400: #82abb0;
+--secondary-color-500: #4d878e;
+--secondary-color-600: #457a80;
+--secondary-color-700: #3a656b;
+--secondary-color-800: #2e5155;
+--secondary-color-900: #264246;
