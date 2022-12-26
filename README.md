@@ -6,5 +6,6 @@
 
 # About Curt Sheller - Master as of 2023 - Laravel 9
 
+- `2022-12-16 - Starting new git repro for 2023.
 - `2022-12-12 - Refresh branch for 2023. Having trouble with repro no getting current change and picking up an old change. Hopefully this fixes it and give a clean slate for 2023.
 - `readme.md` Updated: **4 November 2020**
