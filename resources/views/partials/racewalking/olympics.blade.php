@@ -1322,7 +1322,7 @@
                     <li class="">Complete Results <x-ui.icons.link /></li>
                 </ul>
 
-            <h4 class="mb- mt-6">35km Team Race Walk (mixed Men &amp; Women</h4>
+            <h4 class="mb- mt-6">35km Team Race Walk (mixed Men &amp; Women)</h4>
                 <p class="text-sm">This is a new event taking the place of the Mens 50 km walk that was last held at 2019 Doha World Championships and the 2020(21) Toyko Olympics.</p>
                 <p>Qualifying Standard: </p>
                 <ul class="text-xs leading-loose links-bold ml-12">
@@ -1335,7 +1335,7 @@
             </div>
             <div class="col-span-2 sm:col-span-1">
                 <h2 class=""><a name="2028LosAngeles"></a>@svg('flags/us', 'border') 2028 Los Angeles, USA</h2>
-                <p class="text-sm">The <b>2028 Summer Olympics</b>, officially known as the Games of the XXXIV Olympiad, and commonly known as LA 2028, is a forthcoming international multi-sport event that is scheduled to take place from <em>July 21</em> to <em>August 6, 2028</em>, in Los Angeles, California, United States. This is the third time the Olympics are being held in Los Angeles.</p>
+                    <p class="text-sm">The <b>2028 Summer Olympics</b>, officially known as the Games of the XXXIV Olympiad, and commonly known as LA 2028, is a forthcoming international multi-sport event that is scheduled to take place from <em>July 21</em> to <em>August 6, 2028</em>, in Los Angeles, California, United States. This is the third time the Olympics are being held in Los Angeles.</p>
 
                 <h5>Links</h5>
                 @include('partials/racewalking/summer_olympics', ['olympic_year' => '2028'])
@@ -1360,7 +1360,7 @@
                 <h2 class=""><a name="2024Paris"></a>@svg('flags/au', 'border') 2032 Brisbane, Queensland, Australia</h2>
                 <p class="text-sm">The <b>2032 Summer Olympics</b>, officially known as the <b>Games of the XXXV Olympiad</b>, 23 July to 8 August 2032, in Brisbane, Queensland, Australia.</p>
 
-                <p class="text-sm">t will be the third Summer Games to be held in Australia after the 1956 Summer Olympics in Melbourne, Victoria, and the 2000 Summer Olympics in Sydney, New South Wales. It will also be the fourth Summer Games to be held in the Southern Hemisphere, after the aforementioned games in Australia in Melbourne and Sydney and the 2016 Summer Olympics in Rio de Janeiro, Brazil. This will also be the second Summer Games to be held entirely in a host city’s meteorological winter after Rio. </p>
+                <p class="text-sm">It will be the third Summer Games to be held in Australia after the 1956 Summer Olympics in Melbourne, Victoria, and the 2000 Summer Olympics in Sydney, New South Wales. It will also be the fourth Summer Games to be held in the Southern Hemisphere, after the aforementioned games in Australia in Melbourne, and Sydney, and the 2016 Summer Olympics in Rio de Janeiro, Brazil. This will also be the second Summer Games to be held entirely in a host city’s meteorological winter after Rio.</p>
 
                 @include('partials/racewalking/summer_olympics', ['olympic_year' => '2032'])
             </div>
@@ -1371,8 +1371,8 @@
             </div>
         </div>
         <div class="grid grid-cols-2 gap-8">
-            <img class="block mx-auto w-1/3 my-6" src="/svg/Olympic-Rings.svg" alt="Olympic-Rings.svg">
-            <img class="block mx-auto w-1/3 my-6" src="/svg/Olympic-Rings.svg" alt="Olympic-Rings.svg">
+            <img class="mx-auto w-1/3 my-6" src="/svg/Olympic-Rings.svg" alt="Olympic-Rings.svg">
+            <img class="mx-auto w-1/3 my-6" src="/svg/Olympic-Rings.svg" alt="Olympic-Rings.svg">
        </div>
     </x-card>
 </div>

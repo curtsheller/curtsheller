@@ -16,13 +16,13 @@
     <h2>IAAF Introduction To Race Walking</h2>
 
     <p>Written by <a href="https://en.wikipedia.org/wiki/Maurizio_Damilano"><b>Maurizio Damilano</b> @svg('link')</a>; Technical Consultant Sandro Damilano (Saluzzo Race Walking School); produced by IAAF. Maurizio Damilano was the 1980 Olympic Champion and the 1987 and 1991 World Champion in the 20 km race walk.</p>
-    <div class="img-center img-thumbnail">
+    <div class="mx-auto img-thumbnail">
         <iframe width="560" height="315" class="" src="https://www.youtube.com/embed/z47KyUUiQHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </x-card>
 
 <x-card class="card-racewalk" nav=true>
-    <div class="img-center img-thumbnail">
+    <div class="mx-auto img-thumbnail">
         <iframe class="" src="//player.vimeo.com/video/2680340" width="500" height="282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
 </x-card>
@@ -30,19 +30,23 @@
 <x-card class="card-racewalk" nav=true>
     <div class="grid grid-cols-12 gap-2">
         <div class="col-span-3">
-            <div class="img-center"><img class="img-thumbnail bg-white shadow" src="/images/photos/racewalk/CS-PolarBear.png"></div>
+            <img class="img-thumbnail bg-white shadow | mx-auto" src="/images/photos/racewalk/CS-PolarBear.png">
             <p class="text-center text-xs leading-normal mt-3 mx-4"><b>Polar Bear 10 Mile Racewalk</b>, Asbury Park, NJ</p>
         </div>
         <div class="col-span-3">
-            <div class="img-center"><img class="img-thumbnail bg-white shadow" src="/images/photos/racewalk/CS-20k-WAVA-1995.png" alt=""></div>
+            <a href="/images/photos/racewalk/CS-20k-WAVA-1995.png" target="_blank">
+                <img class="img-thumbnail bg-white shadow | mx-auto" src="/images/photos/racewalk/CS-20k-WAVA-1995.png" alt="">
+            </a>
             <p class="text-center text-xs leading-normal mt-3 mx-4"><b>20 km, XI World Veterans Athletic Championships</b>, Niagara Falls, NY 1995 ( <em>bronze medal mx-4 40-45 age group</em> )</span></p>
         </div>
         <div class="col-span-3">
-            <div class="img-center"><img class="img-thumbnail bg-white shadow" src="/images/photos/racewalk/CS-5k-WAVA-1995.png" alt=""></div>
+            <a href="/images/photos/racewalk/CS-5k-WAVA-1995.png" target="_blank">
+                <img class="img-thumbnail bg-white shadow | mx-auto" src="/images/photos/racewalk/CS-5k-WAVA-1995.png" alt="">
+            </a>
             <p class="text-center text-xs leading-normal mt-3 mx-4"><b>5 km, XI World Veterans Athletic Championships</b>, Buffalo, NY 1995</p>
         </div>
         <div class="col-span-3">
-            <div class="img-center"><img class="img-thumbnail bg-white shadow" src="/images/photos/racewalk/CS-Zinn-88.png" alt=""></div>
+            <img class="img-thumbnail bg-white shadow | mx-auto" src="/images/photos/racewalk/CS-Zinn-88.png" alt="">
             <p class="text-center text-xs leading-normal mt-3 mx-4"><b>Ronn Zinn 10 Miler</b>, April 1988, Asbury Park, NJ</p>
         </div>
     </div>
