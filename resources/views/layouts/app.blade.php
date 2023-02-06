@@ -106,11 +106,14 @@
     @stack('scripts')
 
     @env('production')
+        {{-- app.usefathom.com/ --}}
+        @include('scripts/Plausible')
+
         {{-- gaug.es/ --}}
         {{--  @include('scripts/guages') --}}
 
         {{-- app.usefathom.com/ --}}
-        @include('scripts/Fathom')
+        {{-- @include('scripts/Fathom') --}}
     @endenv
 </body>
 
