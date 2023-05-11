@@ -19,37 +19,40 @@ https://racewalk.com/profiles/stellaCashman.php
 
             <p>Now if I can just start on the second ten year build up ;-)</p>
 
-            <p>( <b>June, 2022 UPDATE</b> ) FInally getting back into walking.</p>
-            <p>( <b>April, 2019 UPDATE</b> ) OOPS!!! That last ten years didn't go as planned. Here we go a gain.</p>
-            <p>( <b>December 28, 2008 UPDATE</b> ) Officially start the next 10 years of race walking.</p>
+            <p>
+                ( <strong>June, 2022 UPDATE</strong> ) Finally getting back into walking.<br>
+                ( <strong>April, 2019 UPDATE</strong> ) OOPS!!! That last ten years didn't go as planned. Here we go a gain.<br>
+                ( <strong>December 28, 2008 UPDATE</strong> ) Officially start the next 10 years of race walking.
+            </p>
 
             <p>Lots of the comments where made when I entered these results in my training log and some additional comments when I entered them here on the web. Some I don't understand myself.</p>
             <p class="test-center">[
+            <a href="#results-2023">2023</a> |
             <a href="#results-2022">2022</a> | <a href="#results-2021">2021</a> |
-            <a href="#results-2013-to-2020">2013 to 2020</a> |<a href="#results-2012">2012</a> |
-            <a href="#results-2011">2011</a> | <a href="#results-2010">2010</a> | <a href="#results-2009">2009</a> | <a href="#results-2008">2008</a> | <a href="#results-1998">1998</a> | <a href="#results-1997">1997</a> | <a href="#results-1996">1996</a> | <a href="#results-1995">1995</a> | <a href="#results-1994">1994</a> | <a href="#results-1993">1993</a> | <a href="#results-1992">1992</a> | <a href="#results-1991">1991</a> | <a href="#results-1990">1990</a> | <a href="#results-1989">1989</a> |<a href="#results-1988">1988</a> | <a href="#results-1987">1987</a> ]
+            <a href="#results-2013-to-2020">2013 to 2020</a> | <a href="#results-2009-to-2018">2009 to 2018</a> | <a href="#results-1999-to-2007">1999 to 2007</a> | <a href="#results-2008">2008</a> | <a href="#results-1998">1998</a> | <a href="#results-1997">1997</a> | <a href="#results-1996">1996</a> | <a href="#results-1995">1995</a> | <a href="#results-1994">1994</a> | <a href="#results-1993">1993</a> | <a href="#results-1992">1992</a> | <a href="#results-1991">1991</a> | <a href="#results-1990">1990</a> | <a href="#results-1989">1989</a> |<a href="#results-1988">1988</a> | <a href="#results-1987">1987</a> ]
             </p>
+
         </div>
 </x-card>
 
-<a name="results-2022"></a>
+<a name="results-2023"></a>
 <x-card class="card-racewalk">
-    <h2 class="">2022</h2>
-    <p>Back in the saddle again and hopefully this will stick. Getting back into my 1996-96 racing and training weight and getting in some walks.</p>
+    <h2 class="">2023</h2>
+    <p></p>
 </x-card>
 
-<a name="results-2019-2020"></a>
+<a name="results-2019-2022"></a>
 <x-card class="card-racewalk">
     <h2 class="">2019-2020</h2>
-    <p class=""><b>COVID-19</b>. Not a good excuse for 2020, but onto 2021.</p>
-    <p class=""><b>New age group January 2, 2020 &mdash; 65-69</b>. Perfect time to get back into it.</p>
+    <p class=""><strong>COVID-19</strong>. Not a good excuse for 2020, but onto 2021.</p>
+    <p class=""><strong>New age group January 2, 2020 &mdash; 65-69</strong>. Perfect time to get back into it.</p>
 </x-card>
 
 <a name="results-2013-to-2019"></a>
 <x-card class="card-racewalk" nav=true>
     <details>
         <summary class="mb-4">
-            <span class="font-heading text-brand-500 text-3xl"><b>2009 to 2018</b> @svg('calendar-alt', 'text-gray-300')</span>
+            <span class="font-heading text-brand-500 text-3xl"><strong>2009 to 2018</strong> @svg('calendar-alt', 'text-gray-300')</span>
         </summary>
         <div>
             <h2 class="">2013 to 2018</h2>
@@ -58,7 +61,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 <p class=""><em>Back training and plan on a few races this year. Races are my way of justifying training and a good benchmark for how the training is going.</em></p>
             <a name="results-2009"></a><a name="results-2010"></a><a name="results-2011"></a>
             <h2 class="">2009 | 2010 | 2011</h2>
-                <p class=""><b>New age group January 2, 2009 - 55-59</b></p>
+                <p class=""><strong>New age group January 2, 2009 - 55-59</strong></p>
                 <p class=""><em>Very limited training and no races for these few years.</em></p>
         </div>
 </x-card>
@@ -67,14 +70,14 @@ https://racewalk.com/profiles/stellaCashman.php
 <x-card class="card-racewalk" nav=true>
     <details>
         <summary class="mb-4">
-            <span class="font-heading text-brand-500 text-3xl"><b>2008</b> @svg('calendar-alt', 'text-gray-300')</span>
+            <span class="font-heading text-brand-500 text-3xl"><strong>2008</strong> @svg('calendar-alt', 'text-gray-300')</span>
         </summary>
         <div class="race-result grid grid-cols-9 gap-2">
             <div class="race-date col-span-1">
                 <p>12/28/1995</p>
             </div>
             <div class="race-name col-span-2">
-                <p><b>Polar Bear Classic 10 Mile</b></p>
+                <p><strong>Polar Bear Classic 10 Mile</strong></p>
             </div>
             <div class="race-location col-span-1">
                 <p>Asbury Park, NJ</p>
@@ -83,7 +86,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 <p>1:51:49</p>
             </div>
             <div class="race-notes col-span-9">
-                <p>Average pace: 11:10. First race in 10 years or so. First 5 miles: <b>55:56</b>, Second 5 miles: <b>55:54</b>. Pretty even pace.
+                <p>Average pace: 11:10. First race in 10 years or so. First 5 miles: <strong>55:56</strong>, Second 5 miles: <strong>55:54</strong>. Pretty even pace.
                 First race in 10 years and last chance to race in the 50-54 age group. 30 lbs heavier and 30 minutes slower.</p>
             </div>
         </div>
@@ -94,7 +97,7 @@ https://racewalk.com/profiles/stellaCashman.php
 <x-card class="card-racewalk" nav=true>
     <details>
         <summary class="mb-4">
-            <span class="font-heading text-brand-500 text-3xl"><b>1999 to 2007</b> @svg('calendar-alt', 'text-gray-300')</span>
+            <span class="font-heading text-brand-500 text-3xl"><strong>1999 to 2007</strong> @svg('calendar-alt', 'text-gray-300')</span>
         </summary>
         <div>
             <p class=""><i>No Races. A little break missing my 45-50 age group. And hopefully not my 50-55 ;-)</i></p>
@@ -104,10 +107,10 @@ https://racewalk.com/profiles/stellaCashman.php
 
 <a name="results-1998"></a>
 <x-card class="card-racewalk" nav=true>
-    <details>
+    <details open>
         <summary class="mb-4">
-            <span class="font-heading text-brand-500 text-3xl"><b>1998</b> @svg('calendar-alt', 'text-gray-300')</span>
-            <p>A couple of USATF events.</p>
+            <span class="font-heading text-brand-500 text-3xl"><strong>1998</strong> @svg('calendar-alt', 'text-gray-300')</span>
+            <p class="mt-4">A couple of USATF events.</p>
         </summary>
         <div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -116,7 +119,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <p><img class="float-left" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>USATF 40 Km National Championship</b></p>
+                    <strong>USATF 40 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Fort Monmouth, NJ</p>
@@ -134,7 +137,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <p><img class="float-left" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>National One Hour Postal</b></p>
+                    <strong>National One Hour Postal</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Fort Monmouth, NJ</p>
@@ -143,7 +146,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>11,716m</p>
                 </div>
                 <div class="race-notes col-span-4">
-                    <p class="text-green-700"><b>3rd in 40-45, 10th in Men's Open</b></p>
+                    <p class="text-green-700"><strong>3rd in 40-45, 10th in Men's Open</strong></p>
                 </div>
             </div>
         </div>
@@ -151,10 +154,10 @@ https://racewalk.com/profiles/stellaCashman.php
 
 <a name="results-1997"></a>
 <x-card class="card-racewalk" nav=true>
-    <details>
+    <details open>
         <summary class="mb-4">
-            <span class="font-heading text-brand-500 text-3xl"><b>1997</b> @svg('calendar-alt', 'text-gray-300')</span>
-            <p>The last of my busy years of Racewalking.</p>
+            <span class="font-heading text-brand-500 text-3xl"><strong>1997</strong> @svg('calendar-alt', 'text-gray-300')</span>
+            <p class="mt-4">The last of my busy years of Racewalking.</p>
         </summary>
         <div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -162,7 +165,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>4/13/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b><a href="http://en.wikipedia.org/wiki/Ronald_Zinn" target="_blank">Ronn Zinn</a> 10 Mile</b></p>
+                    <p><strong><a href="http://en.wikipedia.org/wiki/Ronald_Zinn" target="_blank">Ronn Zinn</a> 10 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Asbury Park, NJ on the Boardwalk</p>
@@ -179,7 +182,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>4/26/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b><a href="http://www.thepennrelays.com/" target="_blank">Penn Relays</a> 5Km</b></p>
+                    <p><strong><a href="http://www.thepennrelays.com/" target="_blank">Penn Relays</a> 5Km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Franklin Field, Phadelphia, PA</p>
@@ -196,7 +199,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/1/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>USATF-NJ Masters 5 Km</b></p>
+                    <p><strong>USATF-NJ Masters 5 Km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Tinton Falls, NJ</p>
@@ -213,7 +216,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/16/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -230,7 +233,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/22/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Homdel International 1 Mile handicap</b></p>
+                    <p><strong>Homdel International 1 Mile handicap</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Homdel, NJ</p>
@@ -247,7 +250,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/23/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -264,7 +267,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/25/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Shore AC Development Meet 1 Mile</b></p>
+                    <p><strong>Shore AC Development Meet 1 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Monmouth University, NJ</p>
@@ -282,7 +285,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/30/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -299,7 +302,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/4/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Grand Old Flag 10K</b></p>
+                    <p><strong>Grand Old Flag 10K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Pottstown, PA</p>
@@ -316,7 +319,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/14/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -333,7 +336,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/21/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -350,7 +353,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/28/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -367,7 +370,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>8/24/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Sallie Mae 5K</b></p>
+                    <p><strong>Sallie Mae 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Wilkesbarre, PA</p>
@@ -385,7 +388,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <img class="" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <p><b>USATF 40 Km National Championship</b></p>
+                    <p><strong>USATF 40 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Fort Monmouth, NJ</p>
@@ -402,7 +405,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>9/14/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Harry Drazin 5.2 Mile handicap</b></p>
+                    <p><strong>Harry Drazin 5.2 Mile handicap</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Interlaken, NJ</p>
@@ -420,7 +423,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <p><img class="float-left" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>USATF National 2 hour Championship</b></p>
+                    <strong>USATF National 2 hour Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Wochester, MA</p>
@@ -437,7 +440,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>10/26/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Race For Hunger</b></p>
+                    <p><strong>Race For Hunger</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Freehold, NJ</p>
@@ -454,7 +457,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>11/2/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>One Hour Postal</b></p>
+                    <p><strong>One Hour Postal</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Freehold, NJ</p>
@@ -471,7 +474,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>12/14/1997</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Todd Scully 10K</b></p>
+                    <p><strong>Todd Scully 10K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -491,8 +494,8 @@ https://racewalk.com/profiles/stellaCashman.php
 <x-card class="card-racewalk" nav=true>
     <details open>
         <summary class="mb-4">
-            <span class="font-heading text-brand-500 text-3xl"><b>1996</b> @svg('calendar-alt', 'text-gray-300')</span>
-            <p class=""><b>1996 was a very good year. PRs at a most distances.</b> <span class="text-green-700 font-extrabold">NJ Racewalker of the Year</span>. Even had a top 30 time for USA walkers in the 20km.</p>
+            <span class="font-heading text-brand-500 text-3xl"><strong>1996</strong> @svg('calendar-alt', 'text-gray-300')</span>
+            <p class="mt-4"><strong>1996 was a very good year. PRs at most distances.</strong> <span class="text-green-700 font-extrabold">NJ Racewalker of the Year</span>. Even had a top 30 time for USA walkers in the 20km.</p>
         </summary>
         <div>
             <img class="img-thumbnail block mx-auto my-12" src="/images/racewalking/1996-US-20km-list.png" alt="">
@@ -502,7 +505,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>1/27/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K Winter Series</b></p>
+                    <p><strong>Lake Tak 5K Winter Series</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -519,7 +522,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>3/17/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>St Patty's 10 Mile</b></p>
+                    <p><strong>St Patty's 10 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Freehold, NJ</p>
@@ -536,7 +539,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>3/24/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>National Invitational 20 Km</b></p>
+                    <p><strong>National Invitational 20 Km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     ????
@@ -545,7 +548,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p class="font-black text-green-700">1:45:11</p>
                 </div>
                 <div class="race-notes col-span-4">
-                    <p><b class="font-extrabold text-green-700">PR</b> - <b>15th</b>, 5:12, 5:21, 5:23, 5:17, 5:14, 5:11, 5:14, 5:10, 5:06, 5:16
+                    <p><b class="font-extrabold text-green-700">PR</b> - <strong>15th</strong>, 5:12, 5:21, 5:23, 5:17, 5:14, 5:11, 5:14, 5:10, 5:06, 5:16
                     5:11, 5:13, (52:42), 5:13, 5:15, 5:15, 5:17, 5:21, 15:52</p>
                 </div>
             </div>
@@ -554,7 +557,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>4/12/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Ron Zinn 10 Miles</b></p>
+                    <p><strong>Ron Zinn 10 Miles</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Asbury Park, NJ</p>
@@ -571,7 +574,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>4/27/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b><a href="http://www.thepennrelays.com/" target="_blank">Penn Relays</a> 10K</b></p>
+                    <p><strong><a href="http://www.thepennrelays.com/" target="_blank">Penn Relays</a> 10K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Franklin Field, Philadelphia, PA</p>
@@ -588,7 +591,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>5/5/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Al Saner Days 20K (track)</b></p>
+                    <p><strong>Al Saner Days 20K (track)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Point Pleasant Beach, NJ </p>
@@ -606,7 +609,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>5/8/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>1 Hour Postal</b></p>
+                    <p><strong>1 Hour Postal</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Fort Monmouth, NJ</p>
@@ -617,9 +620,9 @@ https://racewalk.com/profiles/stellaCashman.php
                 <div class="race-notes col-span-4">
                     <p>10K in <span class="font-black text-green-700">47:49</span> (average: 7:42)</p>
 
-                    <p><b class="font-extrabold text-green-700">Big PR</b> - Wanted to break 49 minutes before a fellow training partner did. So I used the postal to time-trial a 10 Km. L5-9:37, L4-9:43, L3-9:29, L2-9:30, L1-9:29, 5 K <b>23:44 5 Km <b class="font-extrabold text-green-700">PR</b>.</p>
+                    <p><b class="font-extrabold text-green-700">Big PR</b> - Wanted to break 49 minutes before a fellow training partner did. So I used the postal to time-trial a 10 Km. L5-9:37, L4-9:43, L3-9:29, L2-9:30, L1-9:29, 5 K <strong>23:44 5 Km <b class="font-extrabold text-green-700">PR</b>.</p>
 
-                    <p>I wanted to stop after the 10Km and just take what ever the meters where for the hour but <a href="{{ config('racewalk.ElliotDenman.url') }}"><b>Elliot Denman</b></a>@svg('link') talked me into going on after a very short rest.</p>
+                    <p>I wanted to stop after the 10Km and just take what ever the meters where for the hour but <a href="{{ config('racewalk.ElliotDenman.url') }}"><strong>Elliot Denman</strong></a>@svg('link') talked me into going on after a very short rest.</p>
                 </div>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -628,7 +631,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <p><img class="float-left" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>USATF 10 Km National Championship</b></p>
+                    <strong>USATF 10 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Niagra Falls, NY</p>
@@ -646,7 +649,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>5/26/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Eastern Regional 20 Km</b></p>
+                    <p><strong>Eastern Regional 20 Km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Central Park, NYC, NY</p>
@@ -664,7 +667,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/2/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>NJ Masters Championship 5 Km (track)</b></p>
+                    <p><strong>NJ Masters Championship 5 Km (track)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Monmouth Regional HS, NY</p>
@@ -683,7 +686,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/10/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -700,7 +703,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/17/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -717,7 +720,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/24/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -734,7 +737,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/26/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Shore AC Development Meet 1 Mile</b></p>
+                    <p><strong>Shore AC Development Meet 1 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Monmouth University, NJ</p>
@@ -751,7 +754,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/1/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -768,7 +771,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/26/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Shore AC Development Meet 1 Mile</b></p>
+                    <p><strong>Shore AC Development Meet 1 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Monmouth University, NJ</p>
@@ -785,7 +788,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/4/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Grand Old Flag 10 Km</b></p>
+                    <p><strong>Grand Old Flag 10 Km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Pottstown, PA</p>
@@ -802,7 +805,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/8/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -819,7 +822,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/10/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Homdel International I Mile Handicap</b></p>
+                    <p><strong>Homdel International I Mile Handicap</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Homdel, NJ</p>
@@ -836,7 +839,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/15/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -853,7 +856,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/17/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Ocean HS Dev Meet 1 Mile</b></p>
+                    <p><strong>Ocean HS Dev Meet 1 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Oakhurst, NJ</p>
@@ -870,7 +873,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/22/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -887,7 +890,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/29/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -904,7 +907,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>8/5/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -921,7 +924,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>8/12/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -938,7 +941,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>8/19/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -954,7 +957,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>8/26/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Sallie Mae 5 Km</b></p>
+                    <p><strong>Sallie Mae 5 Km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Wilkes-Barre, PA</p>
@@ -971,7 +974,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>9/2/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Harry Drazin 5.2 Mile Handicap</b></p>
+                    <p><strong>Harry Drazin 5.2 Mile Handicap</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Interlaken, NJ</p>
@@ -989,7 +992,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <p><img class="float-left" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>USATF 40 Km National Championship</b></p>
+                    <strong>USATF 40 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Fort Monmouth, NJ</p>
@@ -999,7 +1002,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-notes col-span-4">
                     <p>2nd overall, <b class="font-extrabold text-green-700">PR</b> - Hot Day, Splits - 10K-59:30, 20K-1:56:59(57:29),
-                    30K-2:54:38(57:49), 40K-(1:05:00), <b>Silver Medal, Open Division</b>, 2nd Masters (Warrick Yeager 1st)</p>
+                    30K-2:54:38(57:49), 40K-(1:05:00), <strong>Silver Medal, Open Division</strong>, 2nd Masters (Warrick Yeager 1st)</p>
                 </div>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -1007,7 +1010,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>9/22/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Atlantic City 10K</b></p>
+                    <p><strong>Atlantic City 10K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Atlantic, NJ on the boardwalk</p>
@@ -1024,7 +1027,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>10/27/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Race For Hunger</b></p>
+                    <p><strong>Race For Hunger</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Freehold, NJ</p>
@@ -1041,7 +1044,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>12/15/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Todd Scully 10 Km</b></p>
+                    <p><strong>Todd Scully 10 Km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1059,9 +1062,9 @@ https://racewalk.com/profiles/stellaCashman.php
 
 <a name="results-1995"></a>
 <x-card class="card-racewalk" nav=true>
-    <details>
+    <details open>
         <summary class="mb-4">
-            <span class="font-heading text-brand-500 text-3xl"><b>1995</b> @svg('calendar-alt', 'text-gray-300')</span>
+            <span class="font-heading text-brand-500 text-3xl"><strong>1995</strong> @svg('calendar-alt', 'text-gray-300')</span>
         </summary>
         <div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -1069,7 +1072,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>4/16/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b><a href="http://en.wikipedia.org/wiki/Ronald_Zinn" target="_blank">Ronn Zinn</a> 10 Mile</b></p>
+                    <p><strong><a href="http://en.wikipedia.org/wiki/Ronald_Zinn" target="_blank">Ronn Zinn</a> 10 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Asbury Park, NJ</p>
@@ -1086,7 +1089,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>4/29/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b><a href="http://www.thepennrelays.com/" target="_blank">Penn Relays</a> 10K</b></p>
+                    <p><strong><a href="http://www.thepennrelays.com/" target="_blank">Penn Relays</a> 10K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Franklin Field, Philadelphia, PA</p>
@@ -1103,7 +1106,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>5/7/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Al Saner Days 20Km (track)</b></p>
+                    <p><strong>Al Saner Days 20Km (track)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Point Pleasent, NJ </p>
@@ -1121,7 +1124,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <img class="" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <p><b>USATF 10 Km National Championship</b></p>
+                    <p><strong>USATF 10 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Niagara Falls, NY </p>
@@ -1130,7 +1133,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>52:48 </p>
                 </div>
                 <div class="race-notes col-span-4">
-                    <p>18th overall, 4th Master, <b>1st in age group (<b class="font-extrabold text-red-500">2nd National Masters title</b>)</b></p>
+                    <p>18th overall, 4th Master, <strong>1st in age group (<b class="font-extrabold text-red-500">2nd National Masters title</b>)</b></p>
                 </div>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -1138,7 +1141,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/12/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1155,7 +1158,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/19/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1171,7 +1174,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/23/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Homdel International 1 Mile Handicap</b></p>
+                    <p><strong>Homdel International 1 Mile Handicap</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Homdel, NJ</p>
@@ -1188,7 +1191,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/26/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1205,7 +1208,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/3/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1221,7 +1224,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/4/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Firecraker 5 Mile</b></p>
+                    <p><strong>Firecraker 5 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Wall Township, NJ</p>
@@ -1238,7 +1241,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/5/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Ocean HS Dev Meet 1 Mile</b></p>
+                    <p><strong>Ocean HS Dev Meet 1 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Oakhurst, NJ</p>
@@ -1255,7 +1258,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/10/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1272,7 +1275,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/12/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Ocean HS Dev Meet 1 Mile</b></p>
+                    <p><strong>Ocean HS Dev Meet 1 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Oakhurst, NJ</p>
@@ -1289,7 +1292,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/16/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>XI WAVA Games 20 Km</b></p>
+                    <p><strong>XI WAVA Games 20 Km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Niagria Falls, NY</p>
@@ -1302,14 +1305,14 @@ https://racewalk.com/profiles/stellaCashman.php
             </div>
             <div class="">
                 <p><img class="float-left img-thumbnail mr-2" src="/images/racewalking/CS-20k-WAVA-1995.png" alt="" width="77" height="81">
-                <b>XI WAVA Games 20 Km</b> - <b>24/300</b> Overall, <b>8/21</b> in 40-44 age group. 54:34 10K. <span class="font-extrabold text-green-700">Team Gold (USA) 40-44 Age Group</span>. 90 plus degrees. Went out slow and passed lots of walkers in the second half that went out too fast in the heat.</p>
+                <strong>XI WAVA Games 20 Km</strong> - <strong>24/300</strong> Overall, <strong>8/21</strong> in 40-44 age group. 54:34 10K. <span class="font-extrabold text-green-700">Team Gold (USA) 40-44 Age Group</span>. 90 plus degrees. Went out slow and passed lots of walkers in the second half that went out too fast in the heat.</p>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
                 <div class="race-date col-span-1">
                     <p>7/19/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Ocean HS Dev Meet 1 Mile</b></p>
+                    <p><strong>Ocean HS Dev Meet 1 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Oakhurst, NJ</p>
@@ -1326,7 +1329,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/22/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>XI WAVA Games 5Km (track)</b></p>
+                    <p><strong>XI WAVA Games 5Km (track)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Buffalo, NY</p>
@@ -1339,14 +1342,14 @@ https://racewalk.com/profiles/stellaCashman.php
             </div>
             <div class="race-result">
                 <p><img class="float-left img-thumbnail mr-2" src="/images/racewalking/CS-5k-WAVA-1995.png" alt="" width="54" height="81">
-                    <b>XI WAVA Games 5Km (track)</b> <b>7th/22</b> - 1600 in 7:17, lead 2.5 laps. If you run in Dave Romanasky have him tell you the story of my 5 Km race here. Pretty entertaining as he tells it. Went out and lead the race for a few laps - too fast and one shouldn't PR you first mile.</p>
+                    <strong>XI WAVA Games 5Km (track)</strong> <strong>7th/22</strong> - 1600 in 7:17, lead 2.5 laps. If you run in Dave Romanasky have him tell you the story of my 5 Km race here. Pretty entertaining as he tells it. Went out and lead the race for a few laps - too fast and one shouldn't PR you first mile.</p>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
                 <div class="race-date col-span-1">
                     <p>7/26/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Ocean HS Dev Meet 1 Mile</b></p>
+                    <p><strong>Ocean HS Dev Meet 1 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Oakhurst, NJ</p>
@@ -1363,7 +1366,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/31/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1380,7 +1383,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>8/7/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1397,7 +1400,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>8/14/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1414,7 +1417,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>9/2/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Eatontown 5 Km</b></p>
+                    <p><strong>Eatontown 5 Km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Eatontown, NJ</p>
@@ -1431,7 +1434,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>9/3/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Harry Drazin 5.2 Mile Handicap</b></p>
+                    <p><strong>Harry Drazin 5.2 Mile Handicap</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Interlaken, NJ</p>
@@ -1449,7 +1452,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <p><img class="float-left" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>USATF 40 Km National Championship</b></p>
+                    <strong>USATF 40 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Fort Monmouth, NJ</p>
@@ -1466,7 +1469,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>9/17/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Sallie Mae 5K</b></p>
+                    <p><strong>Sallie Mae 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Wilkes-Barre, PA</p>
@@ -1485,7 +1488,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>9/24/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Atlantic City 10K</b></p>
+                    <p><strong>Atlantic City 10K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Atlantic, NJ on the boardwalk</p>
@@ -1504,7 +1507,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>11/5/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Regional 20K (track)</b></p>
+                    <p><strong>Regional 20K (track)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Arlington, VA</p>
@@ -1522,7 +1525,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>11/24/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Freehold 5 Mile</b></p>
+                    <p><strong>Freehold 5 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Freehold, NJ</p>
@@ -1539,7 +1542,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>12/17/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Todd Scully 10 Km</b></p>
+                    <p><strong>Todd Scully 10 Km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1556,7 +1559,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>????</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1573,7 +1576,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>12/31/1995</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Polar Bear Classic 10 Mile</b></p>
+                    <p><strong>Polar Bear Classic 10 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Asbury Park, NJ</p>
@@ -1593,7 +1596,7 @@ https://racewalk.com/profiles/stellaCashman.php
 <x-card class="card-racewalk" nav=true>
     <details>
         <summary class="mb-4">
-            <span class="font-heading text-brand-500 text-3xl"><b>1994</b> @svg('calendar-alt', 'text-gray-300')</span>
+            <span class="font-heading text-brand-500 text-3xl"><strong>1994</strong> @svg('calendar-alt', 'text-gray-300')</span>
         </summary>
         <div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -1601,7 +1604,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>4/10/1994</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b><a href="http://en.wikipedia.org/wiki/Ronald_Zinn" target="_blank">Ronn Zinn</a> 10 Mile</b></p>
+                    <p><strong><a href="http://en.wikipedia.org/wiki/Ronald_Zinn" target="_blank">Ronn Zinn</a> 10 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Asbury Park, NJ</p>
@@ -1618,7 +1621,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>5/15/1994</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Eastern Regional 20K</b></p>
+                    <p><strong>Eastern Regional 20K</strong></p>
                     </p>
                 </div>
                 <div class="race-location col-span-1">
@@ -1636,7 +1639,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/13/1994</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1652,7 +1655,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/22/1994</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Homdel International 1 Mile handicap</b></p>
+                    <p><strong>Homdel International 1 Mile handicap</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Homdel, NJ</p>
@@ -1668,7 +1671,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/24/1994</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1684,7 +1687,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/27/1994</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1700,7 +1703,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/4/1994</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1717,7 +1720,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/11/1994</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1734,7 +1737,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/18/1994</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 5K</b></p>
+                    <p><strong>Lake Tak 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1751,7 +1754,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>9/4/1994</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Harry Drazin 5.2 Mile handicap</b></p>
+                    <p><strong>Harry Drazin 5.2 Mile handicap</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Interlaken, NJ</p>
@@ -1769,7 +1772,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <p><img class="float-left" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>USATF 40 Km National Championship</b></p>
+                    <strong>USATF 40 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Fort Monmouth, NJ</p>
@@ -1786,7 +1789,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>12/18/1994</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Todd Scully 10K</b></p>
+                    <p><strong>Todd Scully 10K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -1803,7 +1806,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>12/27/1994</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Polar Bear Classic 10 Mile</b></p>
+                    <p><strong>Polar Bear Classic 10 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Asbury Park, NJ</p>
@@ -1823,7 +1826,7 @@ https://racewalk.com/profiles/stellaCashman.php
 <x-card class="card-racewalk" nav=true>
     <details>
         <summary class="mb-4">
-            <span class="font-heading text-brand-500 text-3xl"><b>1993</b> @svg('calendar-alt', 'text-gray-300')</span>
+            <span class="font-heading text-brand-500 text-3xl"><strong>1993</strong> @svg('calendar-alt', 'text-gray-300')</span>
         </summary>
         <div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -1832,7 +1835,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <p><img class="float-left" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>USATF 10 Km National Championship</b></p>
+                    <strong>USATF 10 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Niagria Falls, NY</p>
@@ -1852,7 +1855,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>
             <img class="float-left" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
 
-                    <b>USATF 40 Km National Championship</b></p>
+                    <strong>USATF 40 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Fort Monmouth, NJ</p>
@@ -1869,7 +1872,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>12/26/1993</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Polar Bear Classic 10 Mile</b></p>
+                    <p><strong>Polar Bear Classic 10 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Asbury Park, NJ</p>
@@ -1889,7 +1892,7 @@ https://racewalk.com/profiles/stellaCashman.php
 <x-card class="card-racewalk" nav=true>
     <details>
         <summary class="mb-4">
-            <span class="font-heading text-brand-500 text-3xl"><b>1992</b> @svg('calendar-alt', 'text-gray-300')</span>
+            <span class="font-heading text-brand-500 text-3xl"><strong>1992</strong> @svg('calendar-alt', 'text-gray-300')</span>
         </summary>
         <div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -1898,7 +1901,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <p><img class="float-left" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>USATF 40 Km National Championship</b></p>
+                    <strong>USATF 40 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Fort Monmouth, NJ</p>
@@ -1918,8 +1921,8 @@ https://racewalk.com/profiles/stellaCashman.php
 <x-card class="card-racewalk" nav=true>
     <details>
         <summary class="mb-4">
-            <span class="font-heading text-brand-500 text-3xl"><b>1991</b> @svg('calendar-alt', 'text-gray-300')</span>
-            <p><b>2019 UPDATE</b>: Looks like 1990 to 1993 where slow years.</p>
+            <span class="font-heading text-brand-500 text-3xl"><strong>1991</strong> @svg('calendar-alt', 'text-gray-300')</span>
+            <p><strong>2019 UPDATE</strong>: Looks like 1990 to 1993 where slow years.</p>
         </summary>
         <div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -1927,7 +1930,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>3/3/1991</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Bethesda Chase 20K</b></p>
+                    <p><strong>Bethesda Chase 20K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Bethesda, MD</p>
@@ -1944,7 +1947,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <p><img class="" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>USATF 40 Km National Championship</b></p>
+                    <strong>USATF 40 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Fort Monmouth, NJ</p>
@@ -1964,8 +1967,8 @@ https://racewalk.com/profiles/stellaCashman.php
 <x-card class="card-racewalk" nav=true>
     <details>
         <summary class="mb-4">
-            <span class="font-heading text-brand-500 text-3xl"><b>1990</b> @svg('calendar-alt', 'text-gray-300')</span>
-            <p><b>2019 UPDATE</b>: One race in 1990 - Have to look back in the training logs or lack of training logs to see what happened.</p>
+            <span class="font-heading text-brand-500 text-3xl"><strong>1990</strong> @svg('calendar-alt', 'text-gray-300')</span>
+            <p class="mt-4"><strong>2019 UPDATE</strong>: One race in 1990 - Have to look back in the training logs or lack of training logs to see what happened.</p>
         </summary>
         <div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -1974,7 +1977,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <p><img class="" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>USATF 40 Km National Championship</b></p>
+                    <strong>USATF 40 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Brookdale College, NJ</p>
@@ -1994,7 +1997,7 @@ https://racewalk.com/profiles/stellaCashman.php
 <x-card class="card-racewalk" nav=true>
     <details>
         <summary class="mb-4">
-            <span class="font-heading text-brand-500 text-3xl"><b>1989</b> @svg('calendar-alt', 'text-gray-300')</span>
+            <span class="font-heading text-brand-500 text-3xl"><strong>1989</strong> @svg('calendar-alt', 'text-gray-300')</span>
         </summary>
         <div>
             <h3 class="">1989</h3>
@@ -2003,7 +2006,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>1/22/1989</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>MAC Indoor 1500 Meter</b></p>
+                    <p><strong>MAC Indoor 1500 Meter</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Haverord, PA</p>
@@ -2020,7 +2023,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>4/9/1989</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b><a href="http://en.wikipedia.org/wiki/Ronald_Zinn" target="_blank">Ronn Zinn</a> 10 Mile</b></p>
+                    <p><strong><a href="http://en.wikipedia.org/wiki/Ronald_Zinn" target="_blank">Ronn Zinn</a> 10 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Asbury Park, NJ on the Boardwalk</p>
@@ -2037,7 +2040,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>4/16/1989</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>National Invitational 20K</b></p>
+                    <p><strong>National Invitational 20K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Washington, DC</p>
@@ -2053,7 +2056,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>4/29/1989</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b><a href="http://www.thepennrelays.com/" target="_blank">Penn Relays</a> 10K</b></p>
+                    <p><strong><a href="http://www.thepennrelays.com/" target="_blank">Penn Relays</a> 10K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Franklin Field, Philadelphia, PA</p>
@@ -2069,7 +2072,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>5/21/1989</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Boardwalk 10 Mile</b></p>
+                    <p><strong>Boardwalk 10 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Seaside Heights, NJ</p>
@@ -2086,7 +2089,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>5/27/1989</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Sandy Kalb 9 Mile</b></p>
+                    <p><strong>Sandy Kalb 9 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Lakewood, NJ</p>
@@ -2095,7 +2098,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>1:11:46</p>
                 </div>
                 <div class="race-notes col-span-4">
-                    <p>Average pace 7:58. Twice around Lake Carassajo. Walked with <a href="https://racewalk.com/profiles/maryanneTorrellas.php" target="+blank"><b>Maryanne Torrelles</b> @svg('link')</a>. Fast walkers can sure make one faster. This was a good race.</p>
+                    <p>Average pace 7:58. Twice around Lake Carassajo. Walked with <a href="https://racewalk.com/profiles/maryanneTorrellas.php" target="+blank"><strong>Maryanne Torrelles</strong> @svg('link')</a>. Fast walkers can sure make one faster. This was a good race.</p>
                 </div>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -2103,7 +2106,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/13/1989</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Reading Track Club Development Meet 5K (track)</b></p>
+                    <p><strong>Reading Track Club Development Meet 5K (track)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Reading, PA</p>
@@ -2120,7 +2123,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/27/1989</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Reading Track Club Development Meet 5K (track)</b></p>
+                    <p><strong>Reading Track Club Development Meet 5K (track)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Reading, PA</p>
@@ -2137,7 +2140,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/4/1989</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Grand Old Flag 10K</b></p>
+                    <p><strong>Grand Old Flag 10K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Pottstown, PA</p>
@@ -2155,16 +2158,16 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <p><img class="" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>USATF 10 Km National Championship</b></p>
+                    <strong>USATF 10 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Niagara Falls, NY</p>
                 </div>
                 <div class="race-time col-span-1">
-                    <p><b>50:38</b></p>
+                    <p><strong>50:38</strong></p>
                 </div>
                 <div class="race-notes col-span-4">
-                    <p><b class="font-extrabold text-green-700">PR</b> - 1st age group, <b>National age group gold medal</b> (<b>1st National Masters Championship</b>) </p>
+                    <p><b class="font-extrabold text-green-700">PR</b> - 1st age group, <strong>National age group gold medal</strong> (<strong>1st National Masters Championship</strong>) </p>
                 </div>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -2172,7 +2175,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/15/1989</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Reading Track Club Championship 5K (track)</b></p>
+                    <p><strong>Reading Track Club Championship 5K (track)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Reading, PA</p>
@@ -2190,7 +2193,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <p><img class="" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>USATF 40 Km National Championship</b></p>
+                    <strong>USATF 40 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Brookdale College, NJ</p>
@@ -2207,7 +2210,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>10/8/1989</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Hanover 10K</b></p>
+                    <p><strong>Hanover 10K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Hanover, PA</p>
@@ -2223,7 +2226,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>10/22/1989</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Italian American 10K</b></p>
+                    <p><strong>Italian American 10K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Oakhurst, NJ</p>
@@ -2240,7 +2243,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>11/11/1989</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Union Canal</b></p>
+                    <p><strong>Union Canal</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Reading, PA</p>
@@ -2257,7 +2260,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>3/4/1989</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Bethesda Chase 20 Km</b></p>
+                    <p><strong>Bethesda Chase 20 Km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Bethesda, MD</p>
@@ -2277,7 +2280,7 @@ https://racewalk.com/profiles/stellaCashman.php
 <x-card class="card-racewalk" nav=true>
     <details>
         <summary class="mb-4">
-            <span class="font-heading text-brand-500 text-3xl"><b>1988</b> @svg('calendar-alt', 'text-gray-300')</span>
+            <span class="font-heading text-brand-500 text-3xl"><strong>1988</strong> @svg('calendar-alt', 'text-gray-300')</span>
         </summary>
         <div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -2285,7 +2288,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>1/6/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Philadelphia Indoor 1600 meters (Open)</b></p>
+                    <p><strong>Philadelphia Indoor 1600 meters (Open)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Haverford, PA</p>
@@ -2302,7 +2305,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>1/7/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Philadelphia Indoor 1600 meters (Masters)</b></p>
+                    <p><strong>Philadelphia Indoor 1600 meters (Masters)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Haverford, PA</p>
@@ -2319,7 +2322,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>2/21/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Lake Tak 10 Miler</b></p>
+                    <p><strong>Lake Tak 10 Miler</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Deal, NJ</p>
@@ -2336,7 +2339,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>3/6/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Bethesda Chase 20Km</b></p>
+                    <p><strong>Bethesda Chase 20Km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Bethesda, MD</p>
@@ -2353,7 +2356,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>3/27/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>National Invitational 20K</b></p>
+                    <p><strong>National Invitational 20K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Washington, DC</p>
@@ -2387,14 +2390,14 @@ https://racewalk.com/profiles/stellaCashman.php
                     </div>
                 </div>
                 <p class="text-center">1988 <a class="underline-brand" href="http://en.wikipedia.org/wiki/Ronald_Zinn" target="_blank">Ronn Zinn <x-ui.icons.link /></a> 10 Miler, Asbury Park boardwalk, NJ. &bull;
-                <p class="text-sm text-center"><i>Photos by <a href="{{ config('racewalk.ElliotDenman.url') }}"><b>Elliot Denman</b></a>@svg('link')</i></p>
+                <p class="text-sm text-center"><i>Photos by <a href="{{ config('racewalk.ElliotDenman.url') }}"><strong>Elliot Denman</strong></a>@svg('link')</i></p>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
                 <div class="race-date col-span-1">
                     <p>4/11/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b><a href="http://en.wikipedia.org/wiki/Ronald_Zinn" target="_blank">Ronn Zinn</a> 10 Mile</b></p>
+                    <p><strong><a href="http://en.wikipedia.org/wiki/Ronald_Zinn" target="_blank">Ronn Zinn</a> 10 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Asbury Park, NJ on the Boardwalk</p>
@@ -2411,7 +2414,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>4/27/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b><a href="http://www.thepennrelays.com/" target="_blank">Penn Relays</a> 5Km</b></p>
+                    <p><strong><a href="http://www.thepennrelays.com/" target="_blank">Penn Relays</a> 5Km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Franklin Field, Philadelphia, PA</p>
@@ -2427,7 +2430,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>5/19/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Great Valley Corporate Center 5Km</b></p>
+                    <p><strong>Great Valley Corporate Center 5Km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Malvern, PA</p>
@@ -2444,7 +2447,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>5/26/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Reading Track Club Development Meet 5K</b></p>
+                    <p><strong>Reading Track Club Development Meet 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Reading, PA</p>
@@ -2461,7 +2464,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>5/29/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Sandy Kalb 9 Mile</b></p>
+                    <p><strong>Sandy Kalb 9 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Lakewood, NJ</p>
@@ -2470,7 +2473,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>1:18:07</p>
                 </div>
                 <div class="race-notes col-span-4">
-                    <p>2nd out of 20, Two times around Lake Caeassajo. No water aide stations and a very hot day. average 180 spm for 4.5 miles (one loop) with <a href="https://racewalk.com/profiles/maryanneTorrellas.php" target="+blank"><b>Maryanne Torrelles</b> @svg('link')</a>.</p>
+                    <p>2nd out of 20, Two times around Lake Caeassajo. No water aide stations and a very hot day. average 180 spm for 4.5 miles (one loop) with <a href="https://racewalk.com/profiles/maryanneTorrellas.php" target="+blank"><strong>Maryanne Torrelles</strong> @svg('link')</a>.</p>
                 </div>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -2478,7 +2481,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/2/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Reading Track Club Development Meet 3K</b></p>
+                    <p><strong>Reading Track Club Development Meet 3K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Reading, PA</p>
@@ -2495,7 +2498,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/30/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Reading Track Club Development Meet 5K</b></p>
+                    <p><strong>Reading Track Club Development Meet 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Reading, PA</p>
@@ -2512,7 +2515,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/7/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Reading Track Club Development Meet 3K</b></p>
+                    <p><strong>Reading Track Club Development Meet 3K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Reading, PA</p>
@@ -2530,7 +2533,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <p><img class="" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>USATF 10 Km National Championship</b></p>
+                    <strong>USATF 10 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Niagara Falls, NY</p>
@@ -2547,7 +2550,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/16/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Reading Track Club Championship 5Km (track)</b></p>
+                    <p><strong>Reading Track Club Championship 5Km (track)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Reading, PA</p>
@@ -2564,7 +2567,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/27/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>All Comers Meet 1 Mile</b></p>
+                    <p><strong>All Comers Meet 1 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Seattle, WA</p>
@@ -2582,7 +2585,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-name col-span-2">
                     <p><img class="" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>USATF 40 Km National Championship</b></p>
+                    <strong>USATF 40 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Kenn College, NJ</p>
@@ -2599,7 +2602,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>11/5/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Union Canal 10K</b></p>
+                    <p><strong>Union Canal 10K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Reading, PA</p>
@@ -2616,7 +2619,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>12/31/1988</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Polar Bear Classic 10 Mile (9 Miles)</b></p>
+                    <p><strong>Polar Bear Classic 10 Mile (9 Miles)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Asbury Park, NJ</p>
@@ -2636,8 +2639,8 @@ https://racewalk.com/profiles/stellaCashman.php
 <x-card class="card-racewalk" nav=true>
     <details open>
         <summary class="mb-4">
-            <span class="font-heading text-brand-500 text-3xl"><b>1987</b> @svg('calendar-alt', 'text-gray-300')</span>
-            <p class="mt-4"><b>(33 years old)</b> - Stumbled onto racewalking some how. And really got into it via <b>Jake Jacobson's Healthwalk to Fitness</b> book. I found this book at the Chester County Library, Exton, PA USA and checked it out several times. <em>Thank You Jake</em>.</p>
+            <span class="font-heading text-brand-500 text-3xl"><strong>1987</strong> @svg('calendar-alt', 'text-gray-300')</span>
+            <p class="mt-4"><strong>(33 years old)</strong> - Stumbled onto racewalking some how. And really got into it via <strong>Jake Jacobson's Healthwalk to Fitness</strong> book. I found this book at the Chester County Library, Exton, PA USA and checked it out several times. <em>Thank You Jake</em>.</p>
         </summary>
         <div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -2645,7 +2648,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>3/29/1987</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>National Invitational 5km</b></p>
+                    <p><strong>National Invitational 5km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Washington, DC</p>
@@ -2663,7 +2666,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>4/12/1987</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b><a href="http://en.wikipedia.org/wiki/Ronald_Zinn" target="_blank">Ronn Zinn</a> 10 Mile</b></p>
+                    <p><strong><a href="http://en.wikipedia.org/wiki/Ronald_Zinn" target="_blank">Ronn Zinn</a> 10 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Asbury Park, NJ on the Boardwalk</p>
@@ -2673,7 +2676,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-notes col-span-4">
                     <p>Average pace: 10:25. Went down to check this race out and actually did the race. I read about the races on the boardwalk at Asbury Park in Howard "Jake" Jacobson's Healthwalk to Fitness book. Very cool racing on the boardwalk. The start of a lot of great racewalking friendships.</p>
-                    <p class="">Meet <a href="//en.wikipedia.org/wiki/Elliott_Denman" target="_blank"><b>Elliott Denman</b> @svg('link')</a> and the great walkers of the Shore AC and started a long, long friendship with Elliot and many of the walkers. Elliot, born January 23, 1934 competed in the men's 50 kilometers walk at the 1956 Summer Olympics. I spent every Wednesday for several years on a long, long 4 hour plus, long and show training walk with Elliott and Dr. Gerald Kass while I lived in Asbury Park, NJ.</p>
+                    <p class="">Meet <a href="//en.wikipedia.org/wiki/Elliott_Denman" target="_blank"><strong>Elliott Denman</strong> @svg('link')</a> and the great walkers of the Shore AC and started a long, long friendship with Elliot and many of the walkers. Elliot, born January 23, 1934 competed in the men's 50 kilometers walk at the 1956 Summer Olympics. I spent every Wednesday for several years on a long, long 4 hour plus, long and show training walk with Elliott and Dr. Gerald Kass while I lived in Asbury Park, NJ.</p>
 
                 </div>
             </div>
@@ -2682,7 +2685,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>5/3/1987</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Central Park 5K</b></p>
+                    <p><strong>Central Park 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Central Park, NYC</p>
@@ -2699,7 +2702,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/11/1987</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Reading Track Club Development Meet 3K (track)</b></p>
+                    <p><strong>Reading Track Club Development Meet 3K (track)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Reading, PA</p>
@@ -2717,7 +2720,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/18/1987</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Reading Track Club Development Meet 5K (track)</b></p>
+                    <p><strong>Reading Track Club Development Meet 5K (track)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Reading, PA</p>
@@ -2733,7 +2736,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>6/25/1987</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Pennsylvania Keystone Games qualifier 5K (track)</b></p>
+                    <p><strong>Pennsylvania Keystone Games qualifier 5K (track)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                 </div>
@@ -2748,7 +2751,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>7/12/1987</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Pennsylvania Keystone Games 5K Finals (track)</b></p>
+                    <p><strong>Pennsylvania Keystone Games 5K Finals (track)</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Leigh Univ, PA</p>
@@ -2765,7 +2768,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>9/13/1987</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Eastern Regional 10K</b></p>
+                    <p><strong>Eastern Regional 10K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Atlantic City, NJ</p>
@@ -2784,7 +2787,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 <div class="race-name col-span-2">
                     <p>
                     <img class="" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
-                    <b>USATF 40 Km National Championship</b></p>
+                    <strong>USATF 40 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Fort Monmouth, NJ</p>
@@ -2799,14 +2802,14 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
             </div>
             <div class="race-result">
-                <p class="text-sm">I trained with <b>Bill Norton</b> who talked me into doing this race and gave me some great advice that helped me finish the race. Some advice I didn't take like the pre-race meal of Beer and Muttin chops. I could barely walk the next day and on Bill's great advice forced myself out for a walk. This does help in the recovery.</p>
+                <p class="text-sm">I trained with <strong>Bill Norton</strong> who talked me into doing this race and gave me some great advice that helped me finish the race. Some advice I didn't take like the pre-race meal of Beer and Muttin chops. I could barely walk the next day and on Bill's great advice forced myself out for a walk. This does help in the recovery.</p>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
                 <div class="race-date col-span-1">
                     <p>10/18/1987</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Shore AC 10km</b></p>
+                    <p><strong>Shore AC 10km</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>NJ</p>
@@ -2823,7 +2826,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>10/25/1987</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Union Canal 5K</b></p>
+                    <p><strong>Union Canal 5K</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Reading, PA</p>
@@ -2840,7 +2843,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>12/27/1987</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><b>Polar Bear Classic 10 Mile</b></p>
+                    <p><strong>Polar Bear Classic 10 Mile</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Asbury Park, NJ</p>
@@ -2853,6 +2856,8 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
             </div>
         </div>
+
+        <p class="text-lg"><strong>2023 Updated and Analysis for getting back into it:</strong> &mdash; There is hope, it only took 7 months or so to get into pretty good shapes and to drop 2 minutes of more off a 10 mile time. So there is hope!!!</p>
     </details>
 </x-card>
 
