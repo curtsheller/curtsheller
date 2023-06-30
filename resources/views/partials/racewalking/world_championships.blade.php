@@ -814,7 +814,7 @@
         </div>
         <div class="col-span-2 sm:col-span-1">
             <a name="2025Toyko"></a>
-            <h2 class="mb-4"> 2025 Yoyko</h2>
+            <h2 class="mb-4"> 2025 Tokyo</h2>
                 <p class="text-sm">The <strong>2025 World Athletics Championships</strong> will be the twentieth edition of the World Athletics Championships, and are scheduled to be held in Summer 2025 in Tokyo, Japan. The championships will use the National Stadium, rebuilt for the Tokyo 2020 Olympic and Paralympic Games.</p>
                 <p class="text-sm">This is the third time that the championships will be held in Japan, following the 2007 event in Osaka, and the 1991 event in Tokyo at the same venue</p>
 

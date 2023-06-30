@@ -4,11 +4,15 @@
         <img class="block mx-auto my-8" src="/images/racewalking/rw_steps_per_minute.png" alt="rw_steps_per_minute.png" width="250" height="250">
         <p class="text-sm text-center mx-24 mt-0">A world-class racewalker's steps per minute (spm) cadence is anywhere from <b>180</b> to <b>220</b> spm. That is right in line with <em>"It's not how long your legs are, it's how fast you move them."</em></p>
 
+        <p class='italic"'>Basically a World-class Racewalker has the leg sped of an 800 meter sprinter and Marathon endurance - quite impressive.</p>
+
         <p>As you can see in the chart it doesn't take much improvement in either your steps per minute (spm) or your stride length to trim seconds off of your pace. I have a saying I keep spouting. <q><em>One inch is worth 12 seconds a mile.</em></q> John Soucheck has heard me say that too many times. Twelve seconds, now that is a lot of improvement for a little inch. Two steps a minute faster and that is a few seconds.</p>
 
         <p>One (1) inch is not much on the ruler but is a lot in time. Look at the illustration above (ignore the 7.06 number for now). You can see that at 170 steps per minute (spm), the pace for a stride length of 3'1" is 10:04. Increasing your stride length an additional 1 inch results in a pace of 9:48. That is a 14 second improvement. Again, not bad for a little inch.</p>
 
         <img class="img-center my-5" src="/images/racewalking/rw.OneInch.png" alt="rw.OneInch.png" width="138" height="78">
+
+        <p>Leg speed is a function of strength and endurance and stride length is also strength as well as flexibility.</p>
 
     <h2>How to calculate any of the three values in the SPM formula</h2>
 
@@ -16,15 +20,15 @@
 
         <p>Of the three items in the SPM formula ( <em>pace</em>, <em>cadence</em>, and <em>stride length</em> ), pace is very easy to calculate if you have a measured mile. You simply start your stopwatch at the start of the mile and stop it at the end to get your time. Whatever the watch reads that's how fast you went. But what were your steps per minutes and what was your average stride length?</p>
 
-        <p>Next, it is far easier to calculate you steps per minute than it is to calculate the length of each step. All you have to do is count your steps for a mile, divide by the time, and you have your average spm. So I'm sure you saying right about now <q>You've got to be nuts! How can you keep track os a mile worth of steps?</q> How?</p>
+        <p>Next, it is far easier to calculate you steps per minute than it is to calculate the length of each step. All you have to do is count your steps for a mile, divide by the time, and you have your average spm. So I'm sure you saying right about now <q>You've got to be nuts! How can you keep track of a mile worth of steps?</q> How? And, your right, you can track every step in a mile.</p>
 
         <p>I have developed a <em>manual</em> method and over the years refined it down to the following by using a stopwatch. You only have to count 20 steps and read the stopwatch. Do this periodically during a workout to get the average that you are stepping. With your 20 step count and your one mile pace use the chart below to determine your average stride length. There are also several stopwatches on the market that can be programmed to do this math for you. These watches can do lots of timing related functions.</p>
 
     <h3>I have refined my step counting over the years to the following:</h3>
 
-        <p>Starting when my left foot strikes the ground and carrying the stopwatch in my right hand. I start the count at zero and increase the count with each strike of my left foot. As soon as I reach 10 steps. I stop the watch and read the time. With 10 steps taken by my right foot that's 20 steps. If the time for those 20 steps is 7.05 sec, I'm taking around 170 steps a minute (SPM) based on the <em>Steps Per Minute Chart</em> below. I've found in most training sessions the step count remains pretty even. It's usually the stride length that decreases with fatigue. That is where the strength and endurance training comes in.</p>
+        <p>Starting when my left foot strikes the ground and carrying the stopwatch in my right hand. I start the count at zero and increase the count with each strike of my left foot. As soon as I reach 10 steps. I stop the watch and read the time. With 10 steps taken by my left foot that's 20 steps. If the time for those 20 steps is 7.05 sec, I'm taking around 170 steps a minute (SPM) based on the <em>Steps Per Minute Chart</em> below. I've found in most training sessions the step count remains pretty even. It's usually the stride length that decreases with fatigue. That is where the strength and endurance training comes in.</p>
 
-        <p>Over time you'll arrive at several 20 step times that you use as a goal in training and won't need to carry the chart while on the go. Example: for a 90:00 session I will use 7.0 as a 20 step target to stay at that pace. That's around 170 spm a 9:00 to 9:30 pace for me depending on my technique. One goal is that National/World class 200-220 spm number. <a class="underline-brand" href="https://racewalk.com/profiles/frankAlongi.php" target="_blank"><b>Frank Alongi</b></a> @svg('link') stated that elite walkers "start their training a 180 spm". <em>That quote is best read with a thick Italian accent for best effect.</em></p>
+        <p>Over time you'll arrive at several 20 step times that you use as a goal in training and won't need to carry the chart while on the go. Example: for a 90:00 session I will use 7.0 as a 20 step target to stay at that pace. That's around 170 spm, a 9:00 to 9:30 pace for me depending on my technique. One goal is that National/World class a 200-220 spm number. <a class="" href="https://racewalk.com/profiles/frankAlongi.php" target="_blank"><strong>Frank Alongi</strong> @svg('link')</a> stated that elite walkers <q>start their training a 180 spm</q>. <em>That quote is best read with a thick Italian accent for best effect.</em></p>
 
         <p>Using the chart, I realized that even at my 6'4"+ height I have a relatively short stride compared to a world class walker. My stride length in 1992-93 ranged (in races) from 3'4" to 3'6". My spm was about 180 spm in races up to 10 miles. So you can see the fastest that I could possibly do a 10 mile race was 1:24:00. That was my PR up to 1996 (<em>age 42</em>).</p>
 
