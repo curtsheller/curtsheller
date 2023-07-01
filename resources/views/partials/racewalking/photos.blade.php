@@ -1,3 +1,4 @@
+{{-- 1988 Ronn Zinn 10 Mile Racewalk, Asbury Park, NJ Boardwalk --}}
 <x-card class="card-racewalk" nav=true>
     <h2 class="">1988 Ronn Zinn 10 Mile Racewalk, Asbury Park, NJ Boardwalk</h2>
     <p>The first of many races on the Asbury Park boardwalk held by the Shore AC Club.</p>
@@ -17,6 +18,7 @@
     </div>
 </x-card>
 
+{{-- 1995 WAVA Championships --}}
 <x-card class="card-racewalk" nav=true>
     <h2 class="">1995 WAVA Championships, Niagara Falls and Buffalo NY</h2>
     <div class="grid grid-cols-3 gap-4">
@@ -35,11 +37,12 @@
     </div>
 </x-card>
 
+{{-- Polar Bear 10 Mile Classic Racewalk, Asbury Park, NJ --}}
 <x-card class="card-racewalk" nav=true>
     <h2 class="">Polar Bear 10 Mile Classic Racewalk, Asbury Park, NJ</h2>
-    <p class="text-sm"><strong class="text-brand font-extrabold tracking-wide">2022 Updates:</strong> Seems there is no longer a 10 Miler on the boards. The old Ron Zinn spring 10 miler has been 10 km for a bit and the Polar Bear is now a 5 km. Will have to see if the Coney Island 10 Miler is still a race.</p>
+    <p class="mt-4"><strong class="text-brand font-extrabold tracking-wide">2022-23 Updates:</strong> Seems there is no longer a 10 Miler on the boards. The old Ron Zinn spring 10 miler has been 10 km for a bit and the Polar Bear is now a 5 km. A bit of a shame, I always loved the 10 mile distance. Might be that most of my training sessions where 90 minutes or so.</p>
 
-    <div class="grid grid-cols-4 gap-8 | text-sm">
+    <div class="grid grid-cols-4 gap-8">
         <div class="col-span-3">
             <p>Finally getting back into it. End of age-group coming up and setting some goals to approaching a new age-group.</p>
 
@@ -55,6 +58,7 @@
     </div>
 </x-card>
 
+{{-- Misc Racewalking Photos --}}
 <x-card class="card-racewalk" nav=true>
     <h2 class="">Misc Racewalking Photos</h2>
     <div class="grid grid-cols-2 gap-2">

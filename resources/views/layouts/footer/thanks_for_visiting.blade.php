@@ -9,7 +9,7 @@
 </x-card>
 
 <x-card class="card-plain" nav=true>
-    <p class="font-script text-center text-brand-500 text-2xl mb-3">Thanks for visiting and checking out the site!</p>
+    <p class="font-script text-center text-brand-500 text-3xl mb-3">Thanks for visiting and checking out the site!</p>
 
     <div class="my-6">
         <img class="img-center mb-0" src="/images/curtieAnim.gif" alt="curtieAnim.gif" />
