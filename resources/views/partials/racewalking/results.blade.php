@@ -1,5 +1,5 @@
 {{--
-https://racewalk.com/profiles/stellaCashman.php
+    https://racewalk.com/profiles/stellaCashman.php
     https://racewalk.com/profiles/elliotDenman.php
     https://racewalk.com/profiles/daveRomansky.php
     https://racewalk.com/profiles/jakeJacobson.php
@@ -19,10 +19,13 @@ https://racewalk.com/profiles/stellaCashman.php
 
             <p>Now if I can just start on the second ten year build up ;-)</p>
 
+            <x-ui.list type="none" text="sm" class="mt-4">
+                <li>( <strong>2023 UPDATE</strong> ) OK, maybe this is the year ;0).</li>
+                <li>( <strong>June, 2022 UPDATE</strong> ) Finally getting back into walking.</li>
+                <li>( <strong>April, 2019 UPDATE</strong> ) OOPS!!! That last ten years didn't go as planned. Here we go a gain.</li>
+                <li>( <strong>December 28, 2008 UPDATE</strong> ) Officially start the next 10 years of race walking.</li>
+            </x-ui.list>
             <p>
-                ( <strong>June, 2022 UPDATE</strong> ) Finally getting back into walking.<br>
-                ( <strong>April, 2019 UPDATE</strong> ) OOPS!!! That last ten years didn't go as planned. Here we go a gain.<br>
-                ( <strong>December 28, 2008 UPDATE</strong> ) Officially start the next 10 years of race walking.
             </p>
 
             <p>Lots of the comments where made when I entered these results in my training log and some additional comments when I entered them here on the web. Some I don't understand myself.</p>
@@ -432,7 +435,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>22,135m</p>
                 </div>
                 <div class="race-notes col-span-4">
-                    <p class="text-red-500 font-extrabold">3rd overall - 2nd open medal.  (1:47:43 for 20Km)</p>
+                    <p class="text-red-500 font-extrabold">3rd overall &mdash; 2nd open medal. (1:47:43 for 20Km)</p>
                 </div>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -566,7 +569,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p><span class="font-extrabold text-red-500">1:22:12</span>  (avg. pace: 8:13)</p>
                 </div>
                 <div class="race-notes col-span-4">
-                    <p>1st - 8:13 average, 1-7:45, 8:00, 8:01, 8:06, 8:13, 8:23, 8:23, 8:33, 8:22, 8:22 40:07 at 5 Miles </p>
+                    <p><strong>1st</strong> &mdash; <strong>8:13 average</strong>, 1-7:45, 8:00, 8:01, 8:06, 8:13, 8:23, 8:23, 8:33, 8:22, 8:22 40:07 at 5 Miles </p>
                 </div>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -615,14 +618,14 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>Fort Monmouth, NJ</p>
                 </div>
                 <div class="race-time col-span-1">
-                    <p>????</p>
+                    <p>12,125 meters, 5th out of 108 Men, 6th overall as Victoria Herazo was 4th overall.</p>
                 </div>
                 <div class="race-notes col-span-4">
                     <p>10K in <span class="font-black text-green-700">47:49</span> (average: 7:42)</p>
 
-                    <p><b class="font-extrabold text-green-700">Big PR</b> - Wanted to break 49 minutes before a fellow training partner did. So I used the postal to time-trial a 10 Km. L5-9:37, L4-9:43, L3-9:29, L2-9:30, L1-9:29, 5 K <strong>23:44 5 Km <b class="font-extrabold text-green-700">PR</b>.</p>
+                    <p><b class="font-extrabold text-green-700">Big PR</b> &mdash; Wanted to break 49 minutes before a fellow training partner did. So I used the postal to time-trial a 10 Km. L5-9:37, L4-9:43, L3-9:29, L2-9:30, L1-9:29, 5 K <strong>23:44 5 Km <b class="font-extrabold text-green-700">PR</b>.</p>
 
-                    <p>I wanted to stop after the 10Km and just take what ever the meters where for the hour but <a href="{{ config('racewalk.ElliotDenman.url') }}"><strong>Elliot Denman</strong></a>@svg('link') talked me into going on after a very short rest.</p>
+                    <p>I wanted to stop after the 10Km and just take whatever the meters where for the hour but <a href="{{ config('racewalk.ElliotDenman.url') }}"><strong>Elliot Denman</strong></a>@svg('link') talked me into going on after a very short rest.</p>
                 </div>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -957,7 +960,8 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>8/26/1996</p>
                 </div>
                 <div class="race-name col-span-2">
-                    <p><strong>Sallie Mae 5 Km</strong></p>
+                    <p><img class="float-left" src="/images/racewalking/rw.USATF_sm.gif" alt="" width=29 height=26 border=0>
+                    <strong>USATF 5 Km National Championship</strong></p>
                 </div>
                 <div class="race-location col-span-1">
                     <p>Wilkes-Barre, PA</p>
@@ -1303,9 +1307,14 @@ https://racewalk.com/profiles/stellaCashman.php
                 <div class="race-notes col-span-4">
                 </div>
             </div>
-            <div class="">
-                <p><img class="float-left img-thumbnail mr-2" src="/images/racewalking/CS-20k-WAVA-1995.png" alt="" width="77" height="81">
-                <strong>XI WAVA Games 20 Km</strong> - <strong>24/300</strong> Overall, <strong>8/21</strong> in 40-44 age group. 54:34 10K. <span class="font-extrabold text-green-700">Team Gold (USA) 40-44 Age Group</span>. 90 plus degrees. Went out slow and passed lots of walkers in the second half that went out too fast in the heat.</p>
+            <div class="bg-brand-50 rounded-lg | flex | space-x-4 | p-4 my-12 mt-6">
+                <img class="img-thumbnail | w-48" src="/images/racewalking/CS-20k-WAVA-1995.png" alt="">
+                <div>
+                    <h3>XI WAVA Games 20 Km Road</h3>
+                    <p class="text-lg">
+                        <strong>XI WAVA Games 20 Km</strong> - <strong>24/300</strong> Overall, <strong>8/21</strong> in 40-44 age group. 54:34 10K. <span class="font-extrabold text-green-700">Team Gold (USA) 40-44 Age Group</span>. 90 plus degrees. Went out slow and passed lots of walkers in the second half that went out too fast in the heat.
+                    </p>
+                </div>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
                 <div class="race-date col-span-1">
@@ -1324,6 +1333,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>1st</p>
                 </div>
             </div>
+
             <div class="race-result grid grid-cols-9 gap-2">
                 <div class="race-date col-span-1">
                     <p>7/22/1995</p>
@@ -1340,10 +1350,17 @@ https://racewalk.com/profiles/stellaCashman.php
                 <div class="race-notes col-span-4">
                 </div>
             </div>
-            <div class="race-result">
-                <p><img class="float-left img-thumbnail mr-2" src="/images/racewalking/CS-5k-WAVA-1995.png" alt="" width="54" height="81">
-                    <strong>XI WAVA Games 5Km (track)</strong> <strong>7th/22</strong> - 1600 in 7:17, lead 2.5 laps. If you run in Dave Romanasky have him tell you the story of my 5 Km race here. Pretty entertaining as he tells it. Went out and lead the race for a few laps - too fast and one shouldn't PR you first mile.</p>
+
+            <div class="bg-brand-50 rounded-lg | flex | space-x-4 | p-4 my-12 mt-6">
+                <img class="img-thumbnail | w-48" src="/images/racewalking/CS-5k-WAVA-1995.png" alt="">
+                <div>
+                    <h3>XI WAVA Games 5Km (track)</h3>
+                    <p class="text-lg">
+                        <strong>XI WAVA Games 5Km (track)</strong> <strong>7th/22</strong> - 1600 in 7:17, lead 2.5 laps. If you run in Dave Romanasky have him tell you the story of my 5 Km race here. Pretty entertaining as he tells it. Went out and lead the race for a few laps - too fast and one shouldn't PR you first mile.</p>
+                    </p>
+                </div>
             </div>
+
             <div class="race-result grid grid-cols-9 gap-2">
                 <div class="race-date col-span-1">
                     <p>7/26/1995</p>
@@ -1458,10 +1475,10 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>Fort Monmouth, NJ</p>
                 </div>
                 <div class="race-time col-span-1">
-                    <p>4:26:00</p>
+                    <p>4:25:14</p>
                 </div>
                 <div class="race-notes col-span-4">
-                    <p>7th, Great for 30K, sub 4 pace. slow last 10 K</p>
+                    <p>7th, Great for 30K, sub 4 pace. slow last 10 Km. 1st in Men's Team: (John Soucheck, Dave Romansky, Curt Sheller).</p>
                 </div>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -1478,8 +1495,8 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p>24:20</p>
                 </div>
                 <div class="race-notes col-span-4">
-                    <p>1st (probably age group), Won $100 and beat Big Dave (Romansky)
-                    by a few seconds, 1000 meters in 4:30
+                    <p>1st (<em>probably age group</em>), Won $100 and beat Big Dave (Romansky)
+                    by a few seconds, 1000 meters in 4:30.
                     </p>
                 </div>
             </div>
@@ -1502,6 +1519,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     </p>
                 </div>
             </div>
+
             <div class="race-result grid grid-cols-9 gap-2">
                 <div class="race-date col-span-1">
                     <p>11/5/1995</p>
@@ -1585,7 +1603,7 @@ https://racewalk.com/profiles/stellaCashman.php
                     <p><b class="font-extrabold text-red-500">1:21:41</b></p>
                 </div>
                 <div class="race-notes col-span-4">
-                    <p><b class="font-extrabold text-green-700">PR</b> - 3/20 1st 40-44, 7:35, 8:10, 8:07, 7:59, 8:08, 8:10, 8:07, 8:21, 8:36, 8:25, (avg. pace: 8:04)</p>
+                    <p><b class="font-extrabold text-green-700">PR</b> &mdash; 3/20 1st 40-44, 7:35, 8:10, 8:07, 7:59, 8:08, 8:10, 8:07, 8:21, 8:36, 8:25, (avg. pace: 8:04)</p>
                 </div>
             </div>
         </div>
@@ -2676,8 +2694,7 @@ https://racewalk.com/profiles/stellaCashman.php
                 </div>
                 <div class="race-notes col-span-4">
                     <p>Average pace: 10:25. Went down to check this race out and actually did the race. I read about the races on the boardwalk at Asbury Park in Howard "Jake" Jacobson's Healthwalk to Fitness book. Very cool racing on the boardwalk. The start of a lot of great racewalking friendships.</p>
-                    <p class="">Meet <a href="//en.wikipedia.org/wiki/Elliott_Denman" target="_blank"><strong>Elliott Denman</strong> @svg('link')</a> and the great walkers of the Shore AC and started a long, long friendship with Elliot and many of the walkers. Elliot, born January 23, 1934 competed in the men's 50 kilometers walk at the 1956 Summer Olympics. I spent every Wednesday for several years on a long, long 4 hour plus, long and show training walk with Elliott and Dr. Gerald Kass while I lived in Asbury Park, NJ.</p>
-
+                    <p class="">Meet <a href="//en.wikipedia.org/wiki/Elliott_Denman" target="_blank"><strong>Elliott Denman</strong> @svg('link')</a> and the great walkers of the Shore AC and started a long, long friendship with Elliot and many of the walkers. Elliot, born January 23, 1934 competed in the men's 50 kilometers walk at the 1956 Summer Olympics. I spent every Wednesday for several years on a long, long 4 hour plus, long and show training walk with Elliott and Dr. Gerald Kass (<em>my Eye Doctor while living in NJ</em>) while I lived in Asbury Park, NJ.</p>
                 </div>
             </div>
             <div class="race-result grid grid-cols-9 gap-2">
@@ -2857,7 +2874,7 @@ https://racewalk.com/profiles/stellaCashman.php
             </div>
         </div>
 
-        <p class="text-lg"><strong>2023 Updated and Analysis for getting back into it:</strong> &mdash; There is hope, it only took 7 months or so to get into pretty good shapes and to drop 2 minutes of more off a 10 mile time. So there is hope!!!</p>
+        <p class="text-lg | bg-brand-50 rounded-lg | p-8"><strong>2023 Updated and Analysis for getting back into it:</strong> &mdash; There is hope, it only took 7 months or so to get into pretty good shape and to drop 2 minutes of more off a 10 mile time. So there is hope!!!</p>
     </details>
 </x-card>
 

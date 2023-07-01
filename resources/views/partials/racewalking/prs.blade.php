@@ -22,83 +22,94 @@
     <table class="table-condensed table-striped table-bordered">
         <tr>
             <td width="15%">
-                <p class="ml-2"><b>DIST</b>
+                <p class="ml-2"><strong>DIST</strong>
             <td width="10%">
-                <p class="ml-2"><b>TIME</b></p>
+                <p class="ml-2"><strong>TIME</strong></p>
             <td width="10%">
-                <p class="ml-2"><b>PACE</b></p>
+                <p class="ml-2"><strong>PACE</strong></p>
             <td>
-                <p class="ml-2"><b>RACE</b></p>
+                <p class="ml-2"><strong>RACE</strong></p>
         <tr>
             <td valign=top>
-                <p class="ml-2"><b>40 km</b>
+                <p class="ml-2"><strong>40 km</strong>
             <td valign=top>
                 <p class="ml-2">3:59:38</p>
             <td valign=top>
                 <p class="ml-2">9:39</p>
             <td valign=top>
-                <p class="ml-2"><b>9/8/1996</b> - USATF 40 Km National Racewalk Championship, Fort Monmouth, NJ. I placed second overall in the race for one of my few national medals in the open division.</p>
+                <p class="ml-2"><strong>9/8/1996</strong> &mdash; USATF 40 Km National Racewalk Championship, Fort Monmouth, NJ. I placed second overall in the race for one of my few national medals in the open division.</p>
         <tr>
             <td valign=top>
-                <p class="ml-2"><b>30 km</b></p>
+                <p class="ml-2"><strong>30 km</strong></p>
             <td valign=top>
                 <p class="ml-2">????</p>
             <td valign=top>
                 <p class="ml-2">????</p>
             <td valign=top>
-                <p class="ml-2"><b>????</b> &mdash; Central Park, NY. I did one 30km so it is a PR. Have to dig up the date and time.</p>
+                <p class="ml-2"><strong>????</strong> &mdash; Central Park, NY. I did one 30km so it is a PR. Have to dig up the date and time.</p>
 
         <tr>
             <td valign=top>
-                <p class="ml-2"><b>20 km</b></p>
+                <p class="ml-2"><strong>20 km</strong></p>
             <td valign=top>
                 <p class="ml-2">1:43:11</p>
             <td valign=top>
                 <p class="ml-2">8:18</p>
             <td valign=top>
-                <p class="ml-2"><b>5/5/1996</b> - Al Saner Days 20K (track), Pt Pleasant, NJ</p>
+                <p class="ml-2"><strong>5/5/1996</strong> - Al Saner Days 20K (track), Pt Pleasant, NJ</p>
 
         <tr>
             <td valign=top>
-                <p class="ml-2"><b>2 hour</b></p>
+                <p class="ml-2"><strong>2 hour</strong></p>
             <td valign=top>
                 <p class="ml-2">22,135m (1:47:43 20K)</p>
             <td valign=top>
                 <p class="ml-2"></p>
             <td valign=top>
-                <p class="ml-2"><b>10/13/1997</b> - 3rd overall - 2nd open medal. USATF National 2 hour Championship, Wochester, MA</p>
+                <p class="ml-2"><strong>10/13/1997</strong> - 3rd overall - 2nd open medal. USATF National 2 hour Championship, Wochester, MA</p>
 
+        <tr>
+            <td valign=top>
+                <p class="ml-2"><strong>1 hour</strong></p>
+            <td valign=top>
+                <p class="ml-2">12,125m</p>
+            <td valign=top>
+                <p class="ml-2"></p>
+            <td valign=top>
+                <p class="ml-2"><strong>5/8/1996</strong> &mdash; 6th overall and 5th men. Laps where done at Ft. Monmouth, NJ</p>
 
         <tr>
             <td valign=top>
-                <p class="ml-2"><b>10 Mile</b></p>
+                <p class="ml-2"><strong>10 Mile</strong></p>
             <td valign=top>
-                <p class="ml-2">1:21:41</p>
+                <p class="ml-2">1:21:12</p>
             <td valign=top>
-                <p class="ml-2">8:13</p>
+                <p class="ml-2">8:07</p>
             <td valign=top>
-                <p class="ml-2"><b>12/31/1995</b> - Polar Bear Classic 10 Mile Racewalk, Asbury Park, NJ</p>
+                <p class="ml-2"><strong>4/14/1996</strong> &mdash; Ronn Zinn 10 Mile Racewalk, Asbury Park, NJ</p>
+
         <tr>
             <td valign=top>
-                <p class="ml-2"><b>10 km</b></p>
+                <p class="ml-2"><strong>10 km</strong></p>
             <td valign=top>
-                <p class="ml-2">47:49</p>
+                <p class="ml-2">47:50</p>
             <td valign=top>
-                <p class="ml-2">7:42</p>
+                <p class="ml-2">7:41</p>
             <td valign=top>
-                <p class="ml-2"><b>5/8/1996</b> - en-route to a 1 Hour National Postal distance.</p>
+                <p class="ml-2"><strong>5/8/1996</strong> &mdash; en-route to a 1 Hour National Postal distance above.</p>
+
         <tr>
             <td valign=top>
-                <p class="ml-2"><b>5 km</b></p>
+                <p class="ml-2"><strong>5 km</strong></p>
             <td valign=top>
                 <p class="ml-2">23:09</p>
             <td valign=top>
                 <p class="ml-2">7:27</p>
             <td valign=top>
-                <p class="ml-2"><b>8/26/1996</b> - Sallie Mae 5 Km, Wilkes-Barre, PA</p>
+                <p class="ml-2"><strong>8/26/1996</strong> &mdash; Sallie Mae 5 Km, Wilkes-Barre, PA USATF National 5 Km Championship. Team 1st (Curt Clusen, John  Soucheck, Curt Sheller).</p>
         <tr>
             <td valign=top>
-                <p class="ml-2"><b>1 mile</b></p>
+                <p class="ml-2"><strong>1 mile</strong></p>
             <td valign=top>
                 <p class="ml-2">6:48</p>
             <td valign=top>

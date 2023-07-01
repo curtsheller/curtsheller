@@ -7,7 +7,7 @@
         </div>
         <div class="col-span-3 sm:col-span-1">
             <h4>Russian Racewalker</h4>
-            <p class="text-sm">This drawing I based on the great Russian Vladimir Golubnichy</p>
+            <p class="text-sm">This drawing I based on the great Russian Racewalker, Vladimir Golubnichy</p>
             <img class="block mx-auto" src="/images/racewalking/rw.vg.gif" alt="">
         </div>
         <div class="col-span-3 sm:col-span-1">
@@ -16,7 +16,7 @@
             <img class="" src="/images/racewalking/rw.smallbibnumber.gif" alt="" width="30" height="29">
         </div>
     </div>
-    <p class="text-center mx-12 mt-2"><a href="https://www.britannica.com/biography/Vladimir-Golubnichy" target="_blank"><b>Vladimir Golubnichy</b> @svg('link')</a>, (born June 2, 1936, Sumy, Ukraine, U.S.S.R.), Soviet race walker who won four Olympic medals and dominated the 20-kilometre (12.43-mile) walk in the 1960s and ’70s.</p>
+    <p class="text-center mx-12 mt-2"><a href="https://www.britannica.com/biography/Vladimir-Golubnichy" target="_blank"><b>Vladimir Golubnichy</b> @svg('link')</a>, (<em>born June 2, 1936, Sumy, Ukraine, U.S.S.R.</em>), Soviet race walker who won four Olympic medals and dominated the 20-kilometre (12.43-mile) walk in the 1960s and ’70s.</p>
 </x-card>
 
 <x-card class="card-racewalk">
