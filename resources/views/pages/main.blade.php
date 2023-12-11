@@ -8,7 +8,7 @@
                A selection of ukulele, guitar and music workshops presented by Curt Sheller. These can be presented at your club, festival, store or anywhere you would like. Custom workshop can also be presented based on your needs.
             </x-slot>
             <x-slot name="updated">
-                May 5 , 2021
+                11 December 2023
             </x-slot>
             {{--  This is the "$slot" in page-header --}}
             @svg('user')
@@ -22,9 +22,15 @@
     <x-card>
         <div class="grid grid-cols-4 gap-4">
             <div class="col-span-3">
-                <p class=""><b>Curt Sheller &amp; Curt Sheller Publications</b> was created by <em>Curt Sheller</em> (me) in 1995 and has been on the web since. I have over 40 years of playing experience and I have been involved in private music education for the past 20 plus years.</p>
+                <p class=""><strong>Curt Sheller</strong> and <strong>Curt Sheller Publications</strong> were founded by <em>Curt Sheller</em> in 1995 and have maintained an online presence since then. With over 40 years of playing experience, Curt has been actively engaged in private music education for over two decades.</p>
 
-                <p>I have developed an international reputation as an ukulele expert, having written more than 30 books for ukulele and 600 lessons for the ukulele as well as 10 books for guitar.  Visit my website at <a href="//learningukulele.com" target="_blank"><b>LearningUkulele.com</b></a> to see my work as an author and educator.  I conduct ukulele workshops and along with my wife Bernadette and daughter Kelly run the annual <a href="//funkyfretsukefest.com"><b>Funky Frets Ukulele Festival</b></a>. I remain a professional musician and recently released a jazz ukulele CD, <a href="//howaboutmoreuke.com" target="_blank"><b>&ldquo;How About More Uke?&rdquo;</b></a>, exploring the ukulele with traditional and contemporary jazz repertoire and some my original music, all of which showcase a nontraditional ukulele performance.  Chuck Anderson was a valuable asset leading up to the recording of our CD with his help whipping the charts into shape and allowing us to record his great song Rain Shine.  I also continue to perform live concerts. With my wife Bernadette and daughter Kelly we own the Funky Frets music store in Boyertown, PA, where we sell ukuleles and I conduct music lessons. I also teach via Skype.</p>
+                <p>Curt has cultivated an international reputation as an ukulele expert, authoring more than 30 books and creating 800 lessons specifically for the ukulele. Additionally, Curt has authored several books covering music and guitar.</p>
+
+                <p>The author's website, <a href="//learningukulele.com" target>LearningUkulele.com</a>, showcases his extensive work as an author and educator. Curt Sheller conducts ukulele workshops and, in collaboration with his wife Bernadette and daughter Kelly, organizes the annual Funky Frets Ukulele Festival.</p>
+
+                <p>Remaining a professional musician, Curt recently released a jazz ukulele CD titled <q>How About More Uke?</q> The album explores the ukulele through traditional and contemporary jazz repertoire, featuring some of his original compositions. Notably, Chuck Anderson played a crucial role in preparing the charts for the CD and contributed the song <q>Rain Shine.</q></p>
+
+                <p>Curt continues to perform live concerts and, along with his family, owns the <a href="//funkyfrets.com" target="_blank">Funky Frets Music Store</a> in Boyertown, PA, where they sell ukuleles and offer music lessons. Additionally, he provides music instruction via Skype.</p>
             </div>
             <div class="col-span-1">
                 <img class="img-thumbnail p-2" src="/images/photos/Curt-EM.png" alt="Curt Sheller">
