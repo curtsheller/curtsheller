@@ -44,6 +44,7 @@
                 <li class="CHN"><a href="#2018">2018 Taicang, Jiangsu, China (CHN) @svg('link')</a></li>
                 <li class="BEL"><a href="#2020">2020 <strike>Minsk,  Belarus (BEL)</strike> @svg('link')</a> &bull; Being Moved to 2022 - TBA</li>
                 <li class="OMA"><a href="#2022">2022 Muscat, Oman @svg('link')</a> &bull; Moved from Minsk, Belarus (BEL), Postponed from 2020 (COVID-19) and finally held March 2022.</li>
+                <li class="TUR"><a href="#2024">2024 Antalya, Turkiye (TUR) @svg('link')</a></li>
             </ul>
         </div>
     </div>
@@ -990,73 +991,91 @@
         </div>
 </x-card>
 
-<a name="2020"></a>
+<a name="2022"></a>
+<a name="2024"></a>
 <x-card class="card-racewalk" nav=true>
-        <div class="grid grid-cols-2 gap-8">
-            <div class="col-span-1">
-                <a name="2020"></a>
-                <a name="2022"></a>
-                <h2>
-                    @svg('flags/om', 'border')
-                    2022 Muscat, Oman</strike>
-                </h2>
+    <div class="grid grid-cols-2 gap-8">
+        <div class="col-span-1">
+            <a name="2020"></a>
+            <a name="2022"></a>
+            <h2>
+                @svg('flags/om', 'border')
+                2022 Muscat, Oman</strike>
+            </h2>
 
-                <p class="text-sm">
-                    After a lot of movement and COVID-19 pandemic starting in 2020. The event, which was schedule to happen Belarus took place Marc 2022 in Muscat, Oman.
-                </p>
+            <p class="text-sm">
+                After a lot of movement and COVID-19 pandemic starting in 2020. The event, which was schedule to happen Belarus took place Marc 2022 in Muscat, Oman.
+            </p>
 
-                <h5 class="mt-2">10 Km Walk Women</h5>
-                    <p>Held: 04 Mar 2022</p>
-                     <ul class="text-xs leading-loose links-bold ml-12">
-                        <li class="GOLD">Hongren WANG 44:06 (SB)</li>
-                        <li class="SILVER">Diego GIAMPAOLO (ITA) 44:14</li>
-                        <li class="BRONZE">Yu ZENG (CHN) 44:14 (SB)</li>
-                        <li><a href=//www.worldathletics.org/competitions/world-athletics-race-walking-team-championshi/world-athletics-race-walking-team-championshi-7138851/results/men/10-kilometres-race-walk/final/team" target="_blank">Complete Results <x-ui.icons.link /></a></li>
-                        <li><strong>Team Results:</strong> PR of China, Italy, Spain</li>
-                    </ul>
-
-                  <h5 class="mt-2">20 Km Walk Men</h5>
-                    <p>Held: 04 Mar 2022</p>
-                    <ul class="text-xs leading-loose links-bold ml-12">
-                        <li class="GOLD">Zhenxia MA (CHN) 1:30:22</li>
-                        <li class="SILVER">Jiayu YANG (CHN) 1:31:54</li>
-                        <li class="BRONZE">Kimberly GARCÍA LEÓN (PER) 1:32:27</li>
-                        <li><a href=//www.worldathletics.org/competitions/world-athletics-race-walking-team-championshi/world-athletics-race-walking-team-championshi-7138851/results/women/20-kilometres-race-walk/final/result" target="_blank">Complete Results <x-ui.icons.link /></a></li>
-                        <li><strong>Team Results:</strong> PR of China, Greece, India</li>
-                    </ul>
-
-                  <h5 class="mt-2"35>35 Km Walk Men</h5>
-                    <p>Held: 05 Mar 2022</p>
-                     <ul class="text-xs leading-loose links-bold ml-12">
-                        <li class="GOLD">Glenda MOREJÓN (ECU 2:48:33 (CR)</li>
-                        <li class="SILVER">Maocuo LI (CHN) 2:50:26 (NR)</li>
-                        <li class="BRONZE">Katarzyna ZDZIEBŁO (POL) 2:51:48 (SB)</li>
-                        <li><a href=//www.worldathletics.org/competitions/world-athletics-race-walking-team-championshi/world-athletics-race-walking-team-championshi-7138851/results/women/35-kilometres-race-walk/final/result" target="_blank">Complete Results <x-ui.icons.link /></a></li>
-                        <li><strong>Team Results:</strong> Ecuador, Spain, PR of China</li>
-                    </ul>
-           </div>
-            <div class="col-span-1">
-                <h5 class="mt-2">10 Km Walk Women</h5>
-                     <ul class="text-xs leading-loose links-bold ml-12">
-                        <li class="GOLD"></li>
-                        <li class="SILVER"></li>
-                        <li class="BRONZE"></li>
-                    </ul>
-
-                  <h5 class="mt-2">20 Km Walk Women</h5>
-                     <ul class="text-xs leading-loose links-bold ml-12">
-                        <li class="GOLD"></li>
-                        <li class="SILVER"></li>
-                        <li class="BRONZE"></li>
-                    </ul>
-
-                <h5 class="mt-2">50 Km Walk Women</h5>
-                     <ul class="text-xs leading-loose links-bold ml-12">
-                        <li class="GOLD"></li>
-                        <li class="SILVER"></li>
-                        <li class="BRONZE"></li>
-                    </ul>
+            <h5 class="mt-2">10 Km Walk Women</h5>
+                <p>Held: 04 Mar 2022</p>
+                 <ul class="text-xs leading-loose links-bold ml-12">
+                    <li class="GOLD">Hongren WANG 44:06 (SB)</li>
+                    <li class="SILVER">Diego GIAMPAOLO (ITA) 44:14</li>
+                    <li class="BRONZE">Yu ZENG (CHN) 44:14 (SB)</li>
+                    <li><a href=//www.worldathletics.org/competitions/world-athletics-race-walking-team-championshi/world-athletics-race-walking-team-championshi-7138851/results/men/10-kilometres-race-walk/final/team" target="_blank">Complete Results <x-ui.icons.link /></a></li>
+                    <li><strong>Team Results:</strong> PR of China, Italy, Spain</li>
                 </ul>
-            </div>
+
+              <h5 class="mt-2">20 Km Walk Men</h5>
+                <p>Held: 04 Mar 2022</p>
+                <ul class="text-xs leading-loose links-bold ml-12">
+                    <li class="GOLD">Zhenxia MA (CHN) 1:30:22</li>
+                    <li class="SILVER">Jiayu YANG (CHN) 1:31:54</li>
+                    <li class="BRONZE">Kimberly GARCÍA LEÓN (PER) 1:32:27</li>
+                    <li><a href="//www.worldathletics.org/competitions/world-athletics-race-walking-team-championshi/world-athletics-race-walking-team-championshi-7138851/results/women/20-kilometres-race-walk/final/result" target="_blank">Complete Results <x-ui.icons.link /></a></li>
+                    <li><strong>Team Results:</strong> PR of China, Greece, India</li>
+                </ul>
+
+              <h5 class="mt-2"35>35 Km Walk Men</h5>
+                <p>Held: 05 Mar 2022</p>
+                 <ul class="text-xs leading-loose links-bold ml-12">
+                    <li class="GOLD">Glenda MOREJÓN (ECU 2:48:33 (CR)</li>
+                    <li class="SILVER">Maocuo LI (CHN) 2:50:26 (NR)</li>
+                    <li class="BRONZE">Katarzyna ZDZIEBŁO (POL) 2:51:48 (SB)</li>
+                    <li><a href="//www.worldathletics.org/competitions/world-athletics-race-walking-team-championshi/world-athletics-race-walking-team-championshi-7138851/results/women/35-kilometres-race-walk/final/result" target="_blank">Complete Results <x-ui.icons.link /></a></li>
+                    <li><strong>Team Results:</strong> Ecuador, Spain, PR of China</li>
+                </ul>
         </div>
+        <div class="col-span-1">
+            <h2>
+                @svg('flags/tr', 'border')
+                2024 Antalya, Turkiye</strike>
+            </h2>
+
+            <p class="text-sm">
+                The 2024 IAAF World Race Walking Team Championships
+            </p>
+
+            <h5 class="mt-2">20 Km Walk Women</h5>
+                <p>Held: 21 April 2024</p>
+                <ul class="text-xs leading-loose links-bold ml-12">
+                    <li class="GOLD">Erica SENA 44:06 (ESP) 1:27:12</li>
+                    <li class="SILVER">Kimberly GARCÍA LEÓN (ESP) 1:27:55</li>
+                    <li class="BRONZE">Zhenxia MA (CHN) 1:29:22</li>
+                    <li><a href="https://worldathletics.org/competitions/world-athletics-race-walking-team-championshi/antalya-24/news/report/antalya-24-senior-women-20km-report" target="_blank">Complete Results <x-ui.icons.link /></a></li>
+                    <li><strong>Team Results:</strong> China, Peru, Spain</li>
+                </ul>
+
+              <h5 class="mt-2">20 Km Walk Men</h5>
+                <p>Held: 21 April 2024</p>
+                <ul class="text-xs leading-loose links-bold ml-12">
+                    <li class="GOLD">Perseus KARLSTRÖM 1:18:49</li>
+                    <li class="SILVER">Diego GARCÍA CARRERA (ESP) 1:19:14</li>
+                    <li class="BRONZE">Paul MCGRATH (ESP) 1:19:54</li>
+                    <li><a href="https://worldathletics.org/competitions/world-athletics-race-walking-team-championshi/antalya-24/results/women/20-kilometres-race-walk/final/team" target="_blank">Complete Results <x-ui.icons.link /></a></li>
+                    <li><strong>Team Results:</strong> China, Peru, Spain</li>
+                </ul>
+
+              <h5 class="mt-2">Marathon Mixed Relay</h5>
+                <p>Held: 21 April 2024</p>
+                 <ul class="text-xs leading-loose links-bold ml-12">
+                    <li class="GOLD">Italy 2 (Francesco Fortunato and Valentina Trapletti) (ITA) 2:56:45</li>
+                    <li class="SILVER">Japan (Koki Ikeda and Kumiko Okada) (JPN) 2:57:04</li>
+                    <li class="BRONZE">Spain (Alvaro Martin and Laura Garcia-Caro) (ESP) 2:57:47</li>
+                    <li><a href="https://worldathletics.org/en/competitions/world-athletics-race-walking-team-championshi/antalya-24/results/mixed/marathon-race-walk-mixed-relay/final/result" target="_blank">Complete Results <x-ui.icons.link /></a></li>
+                    <li><strong>Team Results:</strong> Italy, Japan, Spain</li>
+                </ul>
+        </div>
+    </div>
 </x-card>

@@ -708,7 +708,7 @@
 
                 @include('partials/racewalking/link_results', [ 'results_year' => '2022'])
 
-           <h4 class="mb- mt-6">20km Walk Men</h4>
+           <h4 class="mt-6">20km Walk Men</h4>
            <p>Qualifying Standard: <strong>1:21:0</strong>. Being held Friday, 15 July 2022, 15:10 (PST).</p>
                 <ul class="text-xs leading-loose links-bold ml-12">
                     <li class="GOLD">Toshikazu Yamanishi (JPN) 1:19.07 (SB)</li>
@@ -723,7 +723,7 @@
                     <li class="">43. Dan NEHNEVAJ (USA) 1:43:07</li>
                 </ul>
 
-           <h4 class="mb- mt-6">20km Walk Women</h4>
+           <h4 class="mt-6">20km Walk Women</h4>
            <p>Qualifying Standard: <strong>1:31:0</strong>. Being held Friday, 15 July 2022, 13:10 (PST).</p>
                 <ul class="text-xs leading-loose links-bold ml-12">
                     <li class="GOLD">Kimberly GARCÍA LEÓN (PER) 1:26:58 (NR)</li>
@@ -742,7 +742,7 @@
                 <p class="text-sm text-green-700 font-bold">The International Olympic Committee is <a class="text-green-700" href="//www.corkathletics.org/news/1924-50km-race-walk-dropped-from-paris-2024.html" target="_blank">dropping the men's 50km walk from the Olympics and World Cup/World Championships program @svg('link')</a>. <a class="text-green-700" href="//www.corkathletics.org/news/1924-50km-race-walk-dropped-from-paris-2024.html" target="_blank">The 50km has been replaced with the 35km (21.1km) distance for the Olympics and World Cup/World Championships @svg('link')</a>.</p>
             </x-card>
 
-            <h4 class="mb- mt-6">35km Walk Men</h4>
+            <h4 class="mt-6">35km Walk Men</h4>
             <p>Qualifying Standard: <strong>2:33:00</strong> (3:50:00 for 50 km). Being held Sunday, 24 July 2022, 06:15 (PST).</p>
                 <ul class="text-xs leading-loose links-bold ml-12">
                     <li class="GOLD">Massimo STANO (ITA) 2:23:14 (CR)</li>
@@ -754,7 +754,7 @@
                     <li class="">36. USA Nick CHRISTIE (USA) 2:41:08 (SB)</li>
                 </ul>
 
-           <h4 class="mb- mt-6">35km Walk Women</h4>
+           <h4 class="mt-6">35km Walk Women</h4>
            <p>Qualifying Standard: <strong>2:54:00</strong> (4:25:00 for 50 km). Being held Friday, 22 July 2022, 06:15 (PST).</p>
                 <ul class="text-xs leading-loose links-bold ml-12">
                     <li class="GOLD">Kimberly GARCÍA LEÓN (PER) 2:39:16 (CR)</li>
@@ -774,72 +774,92 @@
     </div>
 </x-card>
 
-<!-- Budapest, Hungary, 2025 Touko, Japan  -->
+<!-- Budapest, Hungary, 2025 Toyko, Japan  -->
 <x-card class="card-racewalk" nav=true>
     <div class="grid grid-cols-2 gap-8">
         <div class="col-span-2 sm:col-span-1">
             <a name="2023Budapest"></a>
-            <h2 class="mb-4">@svg('flags/hu', 'border') 2023  Budapest, Hungary</h2>
+            <h2 class="mb-4">@svg('flags/hu', 'border') 2023 Budapest, Hungary</h2>
                 <p class="text-sm">The <strong>2023 World Athletics Championships</strong>, the nineteenth edition of the World Athletics Championships, are scheduled to be held from 19 August to 27 August, 2023 in Budapest, Hungary.</p>
 
                 @include('partials/racewalking/link_results', [ 'results_year' => '2023'])
 
-           <h4 class="mb- mt-6">20km Walk Men </h4>
+           <h4 class="mt-6">20km Walk Men </h4>
                 <ul class="text-xs leading-loose links-bold ml-12">
-                    <li class="GOLD"></li>
-                    <li class="SILVER"></li>
-                    <li class="BRONZE"></li>
+                    <li class="GOLD">Álvaro MARTÍN (ESP) 1:17:32 (WL)</li>
+                    <li class="SILVER">Perseus KARLSTRÖM (SWE) 1:17:39 (NR</li>
+                    <li class="BRONZE">Caio BONFIM (BRA) 1:17:47 (NR)</li>
                 </ul>
 
-           <h4 class="mb- mt-6">20km Walk Women</h4>
+                <ol start="4" class="list-decimal text-xs leading-loose links-bold | mt-4 ml-12">
+                    <li class="">Evan DUNFEE (CAN) 1:18:03 (NR)</li>
+                </ol>
+                <ol start="42" class="list-decimal text-xs leading-loose links-bold bold | ml-12">
+                    <li class="">Nick CHRISTE (USA) 1:26:21 (SB)</li>
+                </ol>
+
+           <h4 class="mt-6">20km Walk Women</h4>
                 <ul class="text-xs leading-loose links-bold ml-12">
-                    <li class="GOLD"></li>
-                    <li class="SILVER"></li>
-                    <li class="BRONZE"></li>
+                    <li class="GOLD">María PÉREZ (ESP) 1:26:51</li>
+                    <li class="SILVER">Jemima MONTAG (AUS) 1:27:16 (AR)</li>
+                    <li class="BRONZE">Antonella PALMISANO (ITA) 1:27:26 (SB)</li>
                 </ul>
 
-           <h4 class="mb- mt-6">35km Walk Men</h4>
+           <h4 class="mt-6">35km Walk Men</h4>
                 <ul class="text-xs leading-loose links-bold ml-12">
-                    <li class="GOLD"></li>
-                    <li class="SILVER"></li>
-                    <li class="BRONZE"></li>
+                    <li class="GOLD">Álvaro MARTÍN 2:24:30  (NR) (ESP)</li>
+                    <li class="SILVER">Brian Daniel PINTADO (ECU) 2:24:34 (AR)</li>
+                    <li class="BRONZE">Masatora KAWANO (JPM) 12:25:12 (SB)</li>
                 </ul>
 
-           <h4 class="mb- mt-6">35km Walk Women</h4>
+           <h4 class="mt-6">35km Walk Women</h4>
                 <ul class="text-xs leading-loose links-bold ml-12">
-                    <li class="GOLD"></li>
-                    <li class="SILVER"></li>
-                    <li class="BRONZE"></li>
+                    <li class="GOLD">María PÉREZ (ESP) 2:38:40 (CR)</li>
+                    <li class="SILVER">Kimberly GARCÍA LEÓN (PER) 2:40:52 </li>
+                    <li class="BRONZE">Antigoni NTRISMPIOTI (GRE) 2:43:22 (SB)</li>
                 </ul>
+
+                <h4>USA Walkers</h4>
+                <ol start="24" class="list-decimal text-xs leading-loose links-bold | mt-4 ml-12">
+                    <li class="">Maria MICHTA-COFFEY (USA) 3:01:22</li>
+                </ol>
+                <ol start="35" class="list-decimal text-xs leading-loose links-bold | ml-12">
+                    <li class="">Miranda MELVILLE (USA) 3:09:41</li>
+                </ol>
+                <ul class="text-xs leading-loose links-bold | ml-12">
+                    <li class="">DNF Stephanie CASEY (USA)</li>
+                </ul>
+
+                <img class="mt-6" src="/images/racewalking/wold_championship_logos/2023-Budapest.png">
         </div>
         <div class="col-span-2 sm:col-span-1">
             <a name="2025Toyko"></a>
-            <h2 class="mb-4"> 2025 Tokyo</h2>
-                <p class="text-sm">The <strong>2025 World Athletics Championships</strong> will be the twentieth edition of the World Athletics Championships, and are scheduled to be held in Summer 2025 in Tokyo, Japan. The championships will use the National Stadium, rebuilt for the Tokyo 2020 Olympic and Paralympic Games.</p>
+            <h2 class="mb-4">@svg('flags/jp', 'border') 2025 Tokyo</h2>
+                <p class="text-sm">The <strong>2025 World Athletics Championships</strong> will be the twentieth edition of the World Athletics Championships, and are scheduled to be held in Summer 2025, 13-21 September 2025 in Tokyo, Japan. The championships will use the National Stadium, rebuilt for the Tokyo 2020 Olympic and Paralympic Games.</p>
                 <p class="text-sm">This is the third time that the championships will be held in Japan, following the 2007 event in Osaka, and the 1991 event in Tokyo at the same venue</p>
 
-           <h4 class="mb- mt-6">20km Walk Men </h4>
+           <h4 class="mt-6">20km Walk Men </h4>
                 <ul class="text-xs leading-loose links-bold ml-12">
                     <li class="GOLD"></li>
                     <li class="SILVER"></li>
                     <li class="BRONZE"></li>
                 </ul>
 
-           <h4 class="mb- mt-6">20km Walk Women</h4>
+           <h4 class="mt-6">20km Walk Women</h4>
                 <ul class="text-xs leading-loose links-bold ml-12">
                     <li class="GOLD"></li>
                     <li class="SILVER"></li>
                     <li class="BRONZE"></li>
                 </ul>
 
-           <h4 class="mb- mt-6">35km Walk Men</h4>
+           <h4 class="mt-6">35km Walk Men</h4>
                 <ul class="text-xs leading-loose links-bold ml-12">
                     <li class="GOLD"></li>
                     <li class="SILVER"></li>
                     <li class="BRONZE"></li>
                 </ul>
 
-           <h4 class="mb- mt-6">35km Walk Women</h4>
+           <h4 class="mt-6">35km Walk Women</h4>
                 <ul class="text-xs leading-loose links-bold ml-12">
                     <li class="GOLD"></li>
                     <li class="SILVER"></li>
