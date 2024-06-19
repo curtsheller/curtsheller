@@ -44,13 +44,12 @@
 
 <x-card id="Olympic-Standards" class="card-racewalk">
     <h2>2024 Olympic Entry Standards</h2>
-    <p>A little early for the entry standards. Here, are the standards used for the 2020 (2021) Tokyo Olympics.</p>
+    <p>A little early for the entry standards. Here, are the standards used for the 2024 Paris Olympics.</p>
     <div class="grid grid-cols-2 gap-8">
         <div class="col-span-1">
             <x-ui.list textSize="xs" leading="relaxed">
-                <li>20 Km Walk - Men <strong>1:21:00</strong></li>
-                <li>20 Km Walk - Women <strong>1:31:00 </strong></li>
-                <li>50 Km Walk <strong>3:50:00</strong></li>
+                <li>20 Km Walk &ndash; Men <strong>1:20:10</strong></li>
+                <li>20 Km Walk &ndash; Women <strong>1:29:30 </strong></li>
             </x-ui.list>
         </div>
         <div class="col-span-1">
@@ -110,7 +109,9 @@
                     <li class="GBR"><a class="" href="#2008-2012"><strong>2012</strong> London</a></li>
                     <li class="BRA"><a class="" href="#2016-2020"><strong>2016</strong> Rio de Janeiro</a></li>
                     <li class="JPN"><a class="" href="#2016-2020"><strong>2020</strong> (<em>Jul-Aug 2021</em>) Tokyo</a></li>
-                    <li class="FRA"><a class="" href="#2024-2028"><strong>2024</strong> Paris</a></li>
+                    <li class="FRA">
+                        <a class="" href="#2024-2028"><span class="text-xl font-display"><strong>2024</strong> Paris</span></a>
+                    </li>
                     <li class="USA"><a class="" href="#2024-2028"><strong>2028</strong> Los Angeles</a></li>
                     <li class="AUS"><a class="" href="#2032-2036"><strong>2032</strong> Brisbande</a></li>
                 </x-ui.list>
@@ -1305,7 +1306,10 @@
 
 
             <h4 class="mb- mt-6">20km Walk Men</h4>
-                <p>Qualifying Standard: </p>
+                <p>Final: <strong>2024-08-01</strong><br>
+                   Qualifying Standard: <strong>1:20:10</strong><br>
+                   <em>No USA walkers have made the qualifying times.</em>
+               </p>
                 <ul class="text-xs leading-loose links-bold ml-12">
                     <li class="GOLD"></li>
                     <li class="SILVER"></li>
@@ -1314,7 +1318,10 @@
                 </ul>
 
             <h4 class="mb- mt-6">20km Walk Women</h4>
-                <p>Qualifying Standard: </p>
+                <p>Final: <strong>2024-08-01</strong><br>
+                   Qualifying Standard: <strong>1:29:20</strong><br>
+                   <em>No USA walkers have made the qualifying times.</em>
+               </p>
                 <ul class="text-xs leading-loose links-bold ml-12">
                     <li class="GOLD"></li>
                     <li class="SILVER"></li>
@@ -1323,6 +1330,7 @@
                 </ul>
 
             <h4 class="mb- mt-6">35km Team Race Walk (mixed Men &amp; Women)</h4>
+                <p>Final: <strong>2024-08-03</strong></p>
                 <p class="text-sm">This is a new event taking the place of the Mens 50 km walk that was last held at 2019 Doha World Championships and the 2020(21) Toyko Olympics.</p>
                 <p>Qualifying Standard: </p>
                 <ul class="text-xs leading-loose links-bold ml-12">
