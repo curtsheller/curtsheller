@@ -6,7 +6,20 @@
 
 # About Curt Sheller - Curt Sheller Publications
 
-- **2023-03-03** - Upgrading attempt to Laravel 10..
-- **2022-12-16** - Starting new git repro for 2023.
-- **2022-12-12** - Refresh branch for 2023. Having trouble with repro no getting current change and picking up an old change. Hopefully this fixes it and give a clean slate for 2023.
-- **readme.md* Updated: **4 November 2020**
+
+Curt Sheller and Curt Sheller Publications were founded by Curt Sheller in 1995 and have maintained an online presence since then. With over 40 years of playing experience, Curt has been actively engaged in private music education for over two decades.
+
+Curt has cultivated an international reputation as an ukulele expert, authoring more than 30 books and creating 800 lessons specifically for the ukulele. Additionally, Curt has authored several books covering music and guitar.
+
+The author's website, LearningUkulele.com, showcases his extensive work as an author and educator. Curt Sheller conducts ukulele workshops and, in collaboration with his wife Bernadette and daughter Kelly, organizes the annual Funky Frets Ukulele Festival.
+
+Remaining a professional musician, Curt recently released a jazz ukulele CD titled "How About More Uke?" The album explores the ukulele through traditional and contemporary jazz repertoire, featuring some of his original compositions. Notably, Chuck Anderson played a crucial role in preparing the charts for the CD and contributed the song "Rain Shine."
+
+Curt continues to perform live concerts and, along with his family, owns the Funky Frets Music Store in Boyertown, PA, where they sell ukuleles and offer music lessons. Additionally, he provides music instruction via Skype.
+
+
+## Programming
+
+Taught myself how to program starting with HyperTalk and Hypercard around 1987 and then proceeded with a few independent contracting assignments using C++, MacApp, and Java. Now I focus on PHP and JavaScript for my web development. My CurtSheller.com, LearningUkulele.com and the Funky Frets sites are all hand-coded using PHP, HTML, CSS, Javascript and MySQL. 2015 Update - LearningUkulele.com and all my public sites are now developed using Laravel a MCV open source PHP framework. So that Smalltalk book I bought last century can finally pay off.
+
+Now all programming is on Pop!_os using a System76 Thelio, PHP, and BASH. Did come Ruby scripts a will ag and now all bash.
