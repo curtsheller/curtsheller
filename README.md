@@ -23,3 +23,9 @@ Curt continues to perform live concerts and, along with his family, owns the Fun
 Taught myself how to program starting with HyperTalk and Hypercard around 1987 and then proceeded with a few independent contracting assignments using C++, MacApp, and Java. Now I focus on PHP and JavaScript for my web development. My CurtSheller.com, LearningUkulele.com and the Funky Frets sites are all hand-coded using PHP, HTML, CSS, Javascript and MySQL. 2015 Update - LearningUkulele.com and all my public sites are now developed using Laravel a MCV open source PHP framework. So that Smalltalk book I bought last century can finally pay off.
 
 Now all programming is on Pop!_os using a System76 Thelio, PHP, and BASH. Did come Ruby scripts a will ag and now all bash.
+
+
+## Sites
+- [CurtSheller.com &rArr;](//curtsheller.com)
+- [Learning Ukulele with Curt &bull; LearningUkulele.com &rArr;](//learningukulele.com)
+- [Funky Frets Music Store &bull; FunkyFrets.com &rArr;](//funkyfrets.com)
