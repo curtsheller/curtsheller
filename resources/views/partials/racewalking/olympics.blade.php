@@ -1285,9 +1285,7 @@
 
 <x-card class="card-racewalk">
     <h4>No More 50 km Walk in the Olympics &amp; World Championships</h4>
-    <p class="text-sm text-brand">The International Olympic Committee is <a class="text-brand" href="https://www.corkathletics.org/news/1924-50km-race-walk-dropped-from-paris-2024.html" target="_blank">dropping the men's 50 km walk from the Olympics and World Cup/World Championships program @svg('link')</a>.</p>
-
-    <p class="text-sm text-brand">The International Olympic Committee is <a class="text-brand" href="https://www.corkathletics.org/news/1924-50km-race-walk-dropped-from-paris-2024.html" target="_blank">The 20km has been replaced with the half-marathon (21.1km) for the Olympics and World Cup/World Championships @svg('link')</a>.</p>
+    <p class="text-brand-500">The International Olympic Committee is dropping the men's 50 km walk from the Olympics and World Cup/World Championships program and replaced it with the 35Km for the World Cup/World Championships. The Olympics 50km has been replaced with the Half-marathon Mixed Relay.</p>
 
     <p class="text-sm text-brand"><strong>2022 Update:</strong> Actually has been replaced with a <strong>35 km</strong> (21.748 Miles).</p>
 </x-card>
@@ -1296,8 +1294,9 @@
     <x-card class="card-racewalk" nav=true>
         <div class="grid grid-cols-2 gap-8">
             <div class="col-span-2 sm:col-span-1">
-                <h2 class=""><a name="2024Paris"></a>@svg('flags/fr', 'border') 2024 Paris</h2>
-                <p class="text-sm">The <b>2024 Summer Olympics</b> (French: Jeux olympiques d'été de 2024), officially known as the Games of the XXXIII Olympiad (French: Jeux de la XXXIIIe Olympiade), and commonly known as Paris 2024, is a forthcoming international multi-sport event that is scheduled to take place from <em>26 July</em> to <em>11 August 2024</em> in Paris, France.</p>
+                <h2 class="mb-0"><a name="2024Paris"></a>@svg('flags/fr', 'border') 2024 Paris</h2>
+                    <p class="font-medium | mt-1">Dates: <strong>26 July</strong> to <strong>11 August</strong></p>
+                    <p class="text-sm">The 2024 Summer Olympics (French: Jeux olympiques d'été de 2024), officially known as the <strong>Games of the XXXIII Olympiad</strong> (French: <em>Jeux de la XXXIIIe Olympiade</em>), and commonly known as Paris 2024, is a forthcoming international multi-sport event that is scheduled to take place from <em>26 July</em> to <em>11 August 2024</em> in Paris, France.</p>
 
                 @include('partials/racewalking/summer_olympics', ['olympic_year' => '2024'])
                 <x-ui.list textSize="sm" leading="loose">
@@ -1311,10 +1310,10 @@
                    <em>No USA walkers have made the qualifying times.</em>
                </p>
                 <ul class="text-xs leading-loose links-bold ml-12">
-                    <li class="GOLD"></li>
-                    <li class="SILVER"></li>
-                    <li class="BRONZE"></li>
-                    <li class="">Complete Results <x-ui.icons.link /></li>
+                    <li class="GOLD">Brian Daniel PINTADO (ECU) 1:18:22</li>
+                    <li class="SILVER">Caio BONFIM (BRA)  1:19:09</li>
+                    <li class="BRONZE">Alvaro MARTIN(ESP) 1:19:11</li>
+                    <li class=""><a href="https://olympics.com/en/paris-2024/results/athletics/men-s-20km-race-walk/fnl-000100--" target="_blank">Complete Results <x-ui.icons.link /></a></li>
                 </ul>
 
             <h4 class="mb- mt-6">20km Walk Women</h4>
@@ -1323,10 +1322,10 @@
                    <em>No USA walkers have made the qualifying times.</em>
                </p>
                 <ul class="text-xs leading-loose links-bold ml-12">
-                    <li class="GOLD"></li>
-                    <li class="SILVER"></li>
-                    <li class="BRONZE"></li>
-                    <li class="">Complete Results <x-ui.icons.link /></li>
+                    <li class="GOLD">Jiayu` YANG (CHN) 1:25:54 SB  </li>
+                    <li class="SILVER">Maria PEREZ (ESP) 1:26:19 SB</li>
+                    <li class="BRONZE">Jemima MONTAG (AUS) 1:26:25 AR</li>
+                    <li class=""><a href="https://olympics.com/en/paris-2024/results/athletics/women-s-20km-race-walk/fnl-000100--" target="_blank">Complete Results <x-ui.icons.link /></a></li>
                 </ul>
 
             <h4 class="mb- mt-6">35km Team Race Walk (mixed Men &amp; Women)</h4>
@@ -1342,8 +1341,9 @@
 
             </div>
             <div class="col-span-2 sm:col-span-1">
-                <h2 class=""><a name="2028LosAngeles"></a>@svg('flags/us', 'border') 2028 Los Angeles, USA</h2>
-                    <p class="text-sm">The <b>2028 Summer Olympics</b>, officially known as the Games of the XXXIV Olympiad, and commonly known as LA 2028, is a forthcoming international multi-sport event that is scheduled to take place from <em>July 21</em> to <em>August 6, 2028</em>, in Los Angeles, California, United States. This is the third time the Olympics are being held in Los Angeles.</p>
+                <h2 class="mb-0"><a name="2028LosAngeles"></a>@svg('flags/us', 'border') 2028 Los Angeles, USA</h2>
+                    <p class="mt-1">Dates: <strong>14 July</strong> to <strong>30 July</strong></p>
+                    <p class="text-sm">The <b>2028 Summer Olympics</b>, officially known as the <strong>Games of the XXXIV Olympiad</strong>, and commonly known as <strong>LA 2028</strong>, is a forthcoming international multi-sport event that is scheduled to take place from <em>July 21</em> to <em>August 6, 2028</em>, in Los Angeles, California, United States. This is the third time the Olympics are being held in Los Angeles.</p>
 
                 <h5>Links</h5>
                 @include('partials/racewalking/summer_olympics', ['olympic_year' => '2028'])
