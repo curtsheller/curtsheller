@@ -1377,7 +1377,7 @@
                     </ul>
 
                 <h4 class="mb- mt-6">35km Team Race Walk <span class="text-base font-display font-medium italic">(mixed Men &amp; Women)</span></h4>
-                    <p>Final: <strong>2024-08-07</strong></p>
+                    <p>Final: <strong></strong></p>
                     <p>There are alternating male and female legs of 11.45km, 10km, 10km, 10.75km</p>
                     <ul class="text-sm leading-loose links-bold ml-12">
                         <li class="GOLD"></li>
