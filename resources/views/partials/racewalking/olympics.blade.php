@@ -1303,41 +1303,40 @@
                     <li><a href="//www.paris2024.org/" target="_blank">Official Site @svg('link')</a>
                 </x-ui.list>
 
+                <h4 class="mb- mt-6">20km Walk Men</h4>
+                    <p>Final: <strong>2024-08-01</strong><br>
+                       Qualifying Standard: <strong>1:20:10</strong><br>
+                       <em>No USA walkers have made the qualifying times.</em>
+                   </p>
+                    <ul class="text-sm leading-loose links-bold ml-12">
+                        <li class="GOLD">Brian Daniel PINTADO (ECU) 1:18:22</li>
+                        <li class="SILVER">Caio BONFIM (BRA) 1:19:09</li>
+                        <li class="BRONZE">Alvaro MARTIN (ESP) 1:19:11</li>
+                        <li class=""><a href="https://olympics.com/en/paris-2024/results/athletics/men-s-20km-race-walk/fnl-000100--" target="_blank">Complete Results <x-ui.icons.link /></a></li>
+                    </ul>
 
-            <h4 class="mb- mt-6">20km Walk Men</h4>
-                <p>Final: <strong>2024-08-01</strong><br>
-                   Qualifying Standard: <strong>1:20:10</strong><br>
-                   <em>No USA walkers have made the qualifying times.</em>
-               </p>
-                <ul class="text-xs leading-loose links-bold ml-12">
-                    <li class="GOLD">Brian Daniel PINTADO (ECU) 1:18:22</li>
-                    <li class="SILVER">Caio BONFIM (BRA)  1:19:09</li>
-                    <li class="BRONZE">Alvaro MARTIN(ESP) 1:19:11</li>
-                    <li class=""><a href="https://olympics.com/en/paris-2024/results/athletics/men-s-20km-race-walk/fnl-000100--" target="_blank">Complete Results <x-ui.icons.link /></a></li>
-                </ul>
+                <h4 class="mb- mt-6">20km Walk Women</h4>
+                    <p>Final: <strong>2024-08-01</strong><br>
+                       Qualifying Standard: <strong>1:29:20</strong><br>
+                       <em>No USA walkers have made the qualifying times.</em>
+                   </p>
+                    <ul class="text-sm leading-loose links-bold ml-12">
+                        <li class="GOLD">Jiayu` YANG (CHN) 1:25:54 SB  </li>
+                        <li class="SILVER">Maria PEREZ (ESP) 1:26:19 SB</li>
+                        <li class="BRONZE">Jemima MONTAG (AUS) 1:26:25 AR</li>
+                        <li class=""><a href="https://olympics.com/en/paris-2024/results/athletics/women-s-20km-race-walk/fnl-000100--" target="_blank">Complete Results <x-ui.icons.link /></a></li>
+                    </ul>
 
-            <h4 class="mb- mt-6">20km Walk Women</h4>
-                <p>Final: <strong>2024-08-01</strong><br>
-                   Qualifying Standard: <strong>1:29:20</strong><br>
-                   <em>No USA walkers have made the qualifying times.</em>
-               </p>
-                <ul class="text-xs leading-loose links-bold ml-12">
-                    <li class="GOLD">Jiayu` YANG (CHN) 1:25:54 SB  </li>
-                    <li class="SILVER">Maria PEREZ (ESP) 1:26:19 SB</li>
-                    <li class="BRONZE">Jemima MONTAG (AUS) 1:26:25 AR</li>
-                    <li class=""><a href="https://olympics.com/en/paris-2024/results/athletics/women-s-20km-race-walk/fnl-000100--" target="_blank">Complete Results <x-ui.icons.link /></a></li>
-                </ul>
-
-            <h4 class="mb- mt-6">35km Team Race Walk (mixed Men &amp; Women)</h4>
-                <p>Final: <strong>2024-08-03</strong></p>
-                <p class="text-sm">This is a new event taking the place of the Mens 50 km walk that was last held at 2019 Doha World Championships and the 2020(21) Toyko Olympics.</p>
-                <p>Qualifying Standard: </p>
-                <ul class="text-xs leading-loose links-bold ml-12">
-                    <li class="GOLD"></li>
-                    <li class="SILVER"></li>
-                    <li class="BRONZE"></li>
-                    <li class="">Complete Results <x-ui.icons.link /></li>
-                </ul>
+                <h4 class="mb- mt-6">35km Team Race Walk <span class="text-base font-display font-medium italic">(mixed Men &amp; Women)</h4>
+                    <p>Final: <strong>2024-08-07</strong></p>
+                    <p class="text-base">This is a new event taking the place of the Mens 50 km walk that was last held at 2019 Doha World Championships and the 2020(21) Toyko Olympics.</p>
+                    <p>There are alternating male and female legs of 11.45km, 10km, 10km, 10.75km</p>
+                    <ul class="text-sm leading-loose cccld ml-12">
+                        <li class="GOLD">MARTIN Alvaro / Maria PEREZ (ESP) 2:50:32 (Leg Times: 11.45km 43:33 (M), 10km 42:56 (F), 10km 38:11 (M), 10.75km 45:51 (F))</li>
+                        <li class="SILVER">Brian Daniel PINTADO / Glenda MOREJON (ECU) 2:51:22</li>
+                        <li class="BRONZE">Rhydian COWLEY / Jemima MONTAG (AUS) 2:52:38</li>
+                        <li class="https://olympics.com/en/paris-2024/results/athletics/marathon-race-walk-relay-mixed/fnl-000100--" target="_blank"><strong>Complete Results</strong> <x-ui.icons.link /></li>
+                    </ul>
 
             </div>
             <div class="col-span-2 sm:col-span-1">
@@ -1352,6 +1351,40 @@
                     <li><a href="//la28.org/" target="_blank">Official Site @svg('link')</a>
                 </x-ui.list>
 
+
+                <h4 class="mb- mt-6">20km Walk Men</h4>
+                    <p>Final: <strong>2024-08-01</strong><br>
+                       Qualifying Standard: <strong>1:20:10</strong><br>
+                       <em>No USA walkers have made the qualifying times.</em>
+                   </p>
+                    <ul class="text-sm leading-loose links-bold ml-12">
+                        <li class="GOLD"></li>
+                        <li class="SILVER"></li>
+                        <li class="BRONZE"></li>
+                        <li class=""><a href="" target="_blank">Complete Results <x-ui.icons.link /></a></li>
+                    </ul>
+
+                <h4 class="mb- mt-6">20km Walk Women</h4>
+                    <p>Final: <strong></strong><br>
+                       Qualifying Standard: <strong>TBA</strong><br>
+                       <em></em>
+                   </p>
+                    <ul class="text-sm leading-loose links-bold ml-12">
+                        <li class="GOLD"></li>
+                        <li class="SILVER"></li>
+                        <li class="BRONZE"></li>
+                        <li class=""><a href="" target="_blank">Complete Results <x-ui.icons.link /></a></li>
+                    </ul>
+
+                <h4 class="mb- mt-6">35km Team Race Walk <span class="text-base font-display font-medium italic">(mixed Men &amp; Women)</span></h4>
+                    <p>Final: <strong>2024-08-07</strong></p>
+                    <p>There are alternating male and female legs of 11.45km, 10km, 10km, 10.75km</p>
+                    <ul class="text-sm leading-loose links-bold ml-12">
+                        <li class="GOLD"></li>
+                        <li class="SILVER"></li>
+                        <li class="BRONZE"></li>
+                        <li class="" target="_blank"><strong>Complete Results</strong> <x-ui.icons.link /></li>
+                    </ul>
             </div>
         </div>
         <div class="grid grid-cols-2 gap-8">
